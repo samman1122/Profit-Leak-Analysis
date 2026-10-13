@@ -1,0 +1,61 @@
+campaign_id,campaign_name,channel,campaign_type,objective,start_date,target_segment
+CAM001,Partner Repeat Purchase 01,Affiliate,Promotional,Repeat Purchase,2024-06-09,Existing Customers
+CAM002,Partner Revenue 02,Affiliate,Acquisition,Revenue,2024-07-25,High Value
+CAM003,Lifecycle Revenue 03,Email,Promotional,Revenue,2025-06-01,Price Sensitive
+CAM004,Display Revenue 04,Display,Acquisition,Revenue,2024-10-27,High Value
+CAM005,Display Repeat Purchase 05,Display,Promotional,Repeat Purchase,2024-02-17,Existing Customers
+CAM006,Social Awareness 06,Meta,Brand,Awareness,2024-02-09,Broad
+CAM007,Search Revenue 07,Google Ads,Acquisition,Revenue,2024-02-09,Price Sensitive
+CAM008,Search Revenue 08,Google Ads,Promotional,Revenue,2025-03-01,Price Sensitive
+CAM009,Partner New Customer 09,Affiliate,Promotional,New Customer,2024-02-18,Broad
+CAM010,Search Revenue 10,Google Ads,Promotional,Revenue,2025-01-05,Broad
+CAM011,Lifecycle New Customer 11,Email,Promotional,New Customer,2024-12-28,Broad
+CAM012,Lifecycle Revenue 12,Email,Acquisition,Revenue,2025-03-08,Price Sensitive
+CAM013,Lifecycle Revenue 13,Email,Promotional,Revenue,2024-01-03,High Value
+CAM014,Search New Customer 14,Google Ads,Promotional,New Customer,2024-06-17,New Customers
+CAM015,Partner Repeat Purchase 15,Affiliate,Promotional,Repeat Purchase,2024-06-16,Existing Customers
+CAM016,Social Revenue 16,Meta,Acquisition,Revenue,2025-02-03,High Value
+CAM017,Lifecycle Revenue 17,Email,Acquisition,Revenue,2025-05-02,Price Sensitive
+CAM018,Search New Customer 18,Google Ads,Promotional,New Customer,2025-05-05,New Customers
+CAM019,Search Revenue 19,Google Ads,Acquisition,Revenue,2024-04-08,Broad
+CAM020,Display Repeat Purchase 20,Display,Promotional,Repeat Purchase,2024-09-28,Existing Customers
+CAM021,Lifecycle Repeat Purchase 21,Email,Retention,Repeat Purchase,2025-02-01,Existing Customers
+CAM022,Social Awareness 22,Meta,Brand,Awareness,2024-01-03,Broad
+CAM023,Partner New Customer 23,Affiliate,Brand,New Customer,2024-04-12,Broad
+CAM024,Lifecycle Repeat Purchase 24,Email,Retention,Repeat Purchase,2025-05-02,Existing Customers
+CAM025,Display New Customer 25,Display,Acquisition,New Customer,2025-04-21,New Customers
+CAM026,Social Repeat Purchase 26,Meta,Retention,Repeat Purchase,2024-03-23,High Value
+CAM027,Partner Repeat Purchase 27,Affiliate,Promotional,Repeat Purchase,2025-04-10,High Value
+CAM028,Social New Customer 28,Meta,Brand,New Customer,2024-08-22,Broad
+CAM029,Lifecycle Repeat Purchase 29,Email,Retention,Repeat Purchase,2024-09-13,High Value
+CAM030,Lifecycle Revenue 30,Email,Promotional,Revenue,2025-05-20,Broad
+CAM031,Search Revenue 31,Google Ads,Promotional,Revenue,2025-04-15,High Value
+CAM032,Lifecycle Revenue 32,Email,Acquisition,Revenue,2024-09-24,Price Sensitive
+CAM033,Partner New Customer 33,Affiliate,Promotional,New Customer,2024-06-12,New Customers
+CAM034,Search New Customer 34,Google Ads,Brand,New Customer,2025-01-25,Broad
+CAM035,Social Revenue 35,Meta,Promotional,Revenue,2024-05-14,High Value
+CAM036,Search New Customer 36,Google Ads,Promotional,New Customer,2025-05-28,Broad
+CAM037,Search New Customer 37,Google Ads,Brand,New Customer,2025-05-08,Broad
+CAM038,Search Revenue 38,Google Ads,Acquisition,Revenue,2025-05-21,Broad
+CAM039,Social Revenue 39,Meta,Acquisition,Revenue,2024-09-15,High Value
+CAM040,Partner Revenue 40,Affiliate,Acquisition,Revenue,2024-09-05,Price Sensitive
+CAM041,Search Revenue 41,Google Ads,Promotional,Revenue,2024-08-17,Broad
+CAM042,Display Revenue 42,Display,Acquisition,Revenue,2024-03-14,High Value
+CAM043,Display New Customer 43,Display,Acquisition,New Customer,2024-06-21,New Customers
+CAM044,Display New Customer 44,Display,Promotional,New Customer,2024-12-12,Broad
+CAM045,Partner Revenue 45,Affiliate,Promotional,Revenue,2024-10-12,Price Sensitive
+CAM046,Display Revenue 46,Display,Promotional,Revenue,2024-12-28,Broad
+CAM047,Display New Customer 47,Display,Acquisition,New Customer,2025-02-23,New Customers
+CAM048,Lifecycle New Customer 48,Email,Brand,New Customer,2024-11-07,New Customers
+CAM049,Display New Customer 49,Display,Promotional,New Customer,2024-01-09,New Customers
+CAM050,Display New Customer 50,Display,Promotional,New Customer,2024-05-23,New Customers
+CAM051,Search Revenue 51,Google Ads,Acquisition,Revenue,2024-02-22,High Value
+CAM052,Partner New Customer 52,Affiliate,Promotional,New Customer,2024-06-10,Broad
+CAM053,Search Revenue 53,Google Ads,Acquisition,Revenue,2024-12-24,High Value
+CAM054,Social Revenue 54,Meta,Acquisition,Revenue,2025-03-29,Price Sensitive
+CAM055,Social Revenue 55,Meta,Promotional,Revenue,2024-05-25,Broad
+CAM056,Partner New Customer 56,Affiliate,Brand,New Customer,2025-05-18,New Customers
+CAM057,Social Revenue 57,Meta,Promotional,Revenue,2024-05-30,Price Sensitive
+CAM058,Lifecycle New Customer 58,Email,Brand,New Customer,2025-04-21,Broad
+CAM059,Social Revenue 59,Meta,Acquisition,Revenue,2025-05-27,High Value
+CAM060,Partner New Customer 60,Affiliate,Acquisition,New Customer,2024-01-18,New Customers

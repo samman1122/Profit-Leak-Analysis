@@ -1,0 +1,1001 @@
+product_id,product_name,category,subcategory,brand,supplier_id,list_price,standard_cost,launch_date,product_status
+P00001,Crest Yoga 0001,Sports,Yoga,Crest,SUP056,122.12,74.34,2023-06-18,Active
+P00002,Everline Skincare 0002,Beauty,Skincare,Everline,SUP058,40.86,21.23,2023-06-16,Active
+P00003,UrbanPeak Sneakers 0003,Footwear,Sneakers,UrbanPeak,SUP030,58.19,32.47,2023-07-25,Active
+P00004,Aster T-Shirts 0004,Apparel,T-Shirts,Aster,SUP053,94.82,49.1,2023-11-03,Active
+P00005,Everline Speakers 0005,Electronics,Speakers,Everline,SUP044,16.58,4.03,2023-07-13,Active
+P00006,Ridge Jackets 0006,Apparel,Jackets,Ridge,SUP059,39.71,23.36,2023-09-05,Active
+P00007,Luma T-Shirts 0007,Apparel,T-Shirts,Luma,SUP052,53.54,24.11,2023-11-15,Active
+P00008,Vertex Boots 0008,Footwear,Boots,Vertex,SUP054,140.22,61.33,2023-08-13,Active
+P00009,Everline Storage 0009,Home & Kitchen,Storage,Everline,SUP013,41.15,18.92,2023-09-06,Active
+P00010,Northstar Storage 0010,Home & Kitchen,Storage,Northstar,SUP041,52.0,20.03,2023-11-14,Active
+P00011,Crest Bedding 0011,Home & Kitchen,Bedding,Crest,SUP055,91.3,46.12,2023-12-01,Active
+P00012,Aster Small Appliances 0012,Home & Kitchen,Small Appliances,Aster,SUP041,35.2,12.62,2023-09-04,Active
+P00013,Northstar Wallets 0013,Accessories,Wallets,Northstar,SUP033,46.27,18.8,2023-12-14,Active
+P00014,Luma Speakers 0014,Electronics,Speakers,Luma,SUP048,29.32,8.66,2023-07-12,Active
+P00015,Luma Boots 0015,Footwear,Boots,Luma,SUP020,14.39,6.53,2023-08-09,Active
+P00016,Vertex Team Sports 0016,Sports,Team Sports,Vertex,SUP061,22.05,12.99,2023-06-18,Active
+P00017,Oak & Co. Speakers 0017,Electronics,Speakers,Oak & Co.,SUP009,28.41,6.23,2023-08-12,Active
+P00018,Crest Wallets 0018,Accessories,Wallets,Crest,SUP012,21.59,11.45,2023-09-06,Active
+P00019,Nova Skincare 0019,Beauty,Skincare,Nova,SUP011,52.13,29.8,2023-07-30,Active
+P00020,Northstar Fragrance 0020,Beauty,Fragrance,Northstar,SUP012,28.58,14.03,2023-09-03,Active
+P00021,Luma Sunglasses 0021,Accessories,Sunglasses,Luma,SUP056,92.56,44.62,2023-10-15,Active
+P00022,Crest Fitness 0022,Sports,Fitness,Crest,SUP013,30.55,18.69,2023-12-04,Active
+P00023,Oak & Co. Skincare 0023,Beauty,Skincare,Oak & Co.,SUP048,25.73,17.8,2023-07-02,Active
+P00024,Everline Cameras 0024,Electronics,Cameras,Everline,SUP017,34.14,12.26,2023-07-20,Discontinued
+P00025,Everline Headphones 0025,Electronics,Headphones,Everline,SUP072,93.91,33.41,2023-05-05,Active
+P00026,UrbanPeak Skincare 0026,Beauty,Skincare,UrbanPeak,SUP008,48.11,20.77,2023-10-22,Discontinued
+P00027,Luma Boots 0027,Footwear,Boots,Luma,SUP076,82.2,44.19,2023-10-10,Seasonal
+P00028,Crest Haircare 0028,Beauty,Haircare,Crest,SUP072,13.46,6.57,2023-11-18,Active
+P00029,Luma Dresses 0029,Apparel,Dresses,Luma,SUP072,19.13,9.66,2023-10-19,Active
+P00030,Vertex Small Appliances 0030,Home & Kitchen,Small Appliances,Vertex,SUP043,11.76,5.0,2023-07-11,Active
+P00031,Oak & Co. Speakers 0031,Electronics,Speakers,Oak & Co.,SUP016,76.84,25.62,2023-08-07,Active
+P00032,Nova Outdoor 0032,Sports,Outdoor,Nova,SUP053,48.48,24.85,2023-08-25,Active
+P00033,Vertex Fragrance 0033,Beauty,Fragrance,Vertex,SUP046,8.0,5.48,2023-07-25,Active
+P00034,UrbanPeak Bags 0034,Accessories,Bags,UrbanPeak,SUP055,24.34,15.58,2023-07-16,Active
+P00035,Luma Jeans 0035,Apparel,Jeans,Luma,SUP007,20.53,12.22,2023-07-03,Active
+P00036,Luma Fragrance 0036,Beauty,Fragrance,Luma,SUP037,37.87,24.62,2023-10-05,Active
+P00037,Northstar Cookware 0037,Home & Kitchen,Cookware,Northstar,SUP077,33.75,10.37,2023-05-26,Active
+P00038,Luma Small Appliances 0038,Home & Kitchen,Small Appliances,Luma,SUP040,141.26,47.78,2023-06-19,Active
+P00039,Ridge Makeup 0039,Beauty,Makeup,Ridge,SUP046,20.83,13.4,2023-11-12,Active
+P00040,Oak & Co. Small Appliances 0040,Home & Kitchen,Small Appliances,Oak & Co.,SUP014,48.87,15.12,2023-11-13,Discontinued
+P00041,Luma Jackets 0041,Apparel,Jackets,Luma,SUP074,21.01,9.1,2023-10-29,Active
+P00042,Everline Yoga 0042,Sports,Yoga,Everline,SUP065,22.95,10.9,2023-04-25,Active
+P00043,Northstar Bedding 0043,Home & Kitchen,Bedding,Northstar,SUP028,13.18,4.11,2023-05-27,Active
+P00044,Northstar Dresses 0044,Apparel,Dresses,Northstar,SUP020,19.3,8.98,2023-04-13,Active
+P00045,Ridge Storage 0045,Home & Kitchen,Storage,Ridge,SUP062,45.65,17.29,2023-07-26,Active
+P00046,UrbanPeak Haircare 0046,Beauty,Haircare,UrbanPeak,SUP029,55.24,32.05,2023-04-29,Active
+P00047,Ridge Jackets 0047,Apparel,Jackets,Ridge,SUP014,59.63,35.93,2023-05-09,Discontinued
+P00048,Crest Boots 0048,Footwear,Boots,Crest,SUP045,88.5,42.58,2023-06-08,Active
+P00049,Oak & Co. Skincare 0049,Beauty,Skincare,Oak & Co.,SUP072,36.66,25.38,2023-12-15,Active
+P00050,Oak & Co. Skincare 0050,Beauty,Skincare,Oak & Co.,SUP048,88.19,55.91,2023-05-23,Active
+P00051,Aster Decor 0051,Home & Kitchen,Decor,Aster,SUP015,50.56,25.51,2023-11-10,Active
+P00052,Luma Cookware 0052,Home & Kitchen,Cookware,Luma,SUP036,87.34,41.93,2023-09-15,Active
+P00053,Northstar Headphones 0053,Electronics,Headphones,Northstar,SUP074,60.78,12.37,2023-09-23,Discontinued
+P00054,Ridge Fragrance 0054,Beauty,Fragrance,Ridge,SUP029,68.61,36.41,2023-06-16,Active
+P00055,UrbanPeak Haircare 0055,Beauty,Haircare,UrbanPeak,SUP055,8.0,3.86,2023-05-03,Active
+P00056,Nova Cookware 0056,Home & Kitchen,Cookware,Nova,SUP072,13.61,6.84,2023-11-20,Active
+P00057,Aster Bedding 0057,Home & Kitchen,Bedding,Aster,SUP080,23.24,8.45,2023-05-24,Active
+P00058,Nova Headphones 0058,Electronics,Headphones,Nova,SUP079,116.36,48.3,2023-07-30,Active
+P00059,Aster Boots 0059,Footwear,Boots,Aster,SUP072,18.74,8.17,2023-11-21,Active
+P00060,Crest Headphones 0060,Electronics,Headphones,Crest,SUP004,58.34,18.18,2023-06-13,Active
+P00061,Northstar Activewear 0061,Apparel,Activewear,Northstar,SUP078,18.44,11.87,2023-11-07,Active
+P00062,Nova Headphones 0062,Electronics,Headphones,Nova,SUP035,152.22,61.18,2023-05-01,Discontinued
+P00063,Ridge Jeans 0063,Apparel,Jeans,Ridge,SUP004,82.76,35.97,2023-09-01,Active
+P00064,Luma Yoga 0064,Sports,Yoga,Luma,SUP024,30.04,15.62,2023-10-09,Active
+P00065,UrbanPeak Headphones 0065,Electronics,Headphones,UrbanPeak,SUP035,33.42,12.77,2023-10-11,Active
+P00066,UrbanPeak Outdoor 0066,Sports,Outdoor,UrbanPeak,SUP040,57.0,31.57,2023-10-11,Active
+P00067,UrbanPeak Sneakers 0067,Footwear,Sneakers,UrbanPeak,SUP044,24.41,9.78,2023-06-28,Active
+P00068,Vertex Activewear 0068,Apparel,Activewear,Vertex,SUP045,8.0,3.78,2023-11-24,Active
+P00069,Ridge Fitness 0069,Sports,Fitness,Ridge,SUP001,41.1,22.53,2023-07-04,Seasonal
+P00070,UrbanPeak Small Appliances 0070,Home & Kitchen,Small Appliances,UrbanPeak,SUP024,154.63,46.51,2023-12-12,Active
+P00071,Aster Cameras 0071,Electronics,Cameras,Aster,SUP019,92.96,20.32,2023-08-16,Discontinued
+P00072,Northstar Sunglasses 0072,Accessories,Sunglasses,Northstar,SUP073,29.31,13.36,2023-05-07,Active
+P00073,Luma Team Sports 0073,Sports,Team Sports,Luma,SUP052,22.07,9.54,2023-04-23,Active
+P00074,Aster Watches 0074,Accessories,Watches,Aster,SUP009,93.13,41.39,2023-11-28,Active
+P00075,Nova Chargers 0075,Electronics,Chargers,Nova,SUP019,67.58,28.09,2023-05-12,Active
+P00076,Northstar Jackets 0076,Apparel,Jackets,Northstar,SUP004,126.78,63.91,2023-04-16,Active
+P00077,Vertex Jeans 0077,Apparel,Jeans,Vertex,SUP012,11.95,5.92,2023-08-15,Active
+P00078,Nova Smart Devices 0078,Electronics,Smart Devices,Nova,SUP068,28.68,9.65,2023-09-15,Active
+P00079,Aster Small Appliances 0079,Home & Kitchen,Small Appliances,Aster,SUP028,56.62,16.94,2023-10-17,Active
+P00080,Luma Outdoor 0080,Sports,Outdoor,Luma,SUP049,12.0,5.07,2023-10-13,Active
+P00081,Ridge Smart Devices 0081,Electronics,Smart Devices,Ridge,SUP054,17.64,7.12,2023-07-23,Active
+P00082,Northstar Formal Shoes 0082,Footwear,Formal Shoes,Northstar,SUP059,24.92,12.01,2023-05-03,Active
+P00083,Crest Sandals 0083,Footwear,Sandals,Crest,SUP044,90.88,54.44,2023-10-28,Active
+P00084,Oak & Co. Sneakers 0084,Footwear,Sneakers,Oak & Co.,SUP021,60.45,23.13,2023-08-18,Active
+P00085,Crest Skincare 0085,Beauty,Skincare,Crest,SUP048,27.53,12.88,2023-05-20,Active
+P00086,Nova Small Appliances 0086,Home & Kitchen,Small Appliances,Nova,SUP040,35.48,10.54,2023-07-10,Active
+P00087,Vertex Bedding 0087,Home & Kitchen,Bedding,Vertex,SUP042,47.54,14.37,2023-06-07,Active
+P00088,Aster Activewear 0088,Apparel,activewear,Aster,SUP073,72.61,43.29,2023-07-06,Active
+P00089,UrbanPeak Headphones 0089,Electronics,Headphones,UrbanPeak,SUP077,12.71,5.16,2023-05-20,Active
+P00090,Vertex T-Shirts 0090,Apparel,T-Shirts,Vertex,SUP011,8.74,4.57,2023-12-06,Active
+P00091,Nova Activewear 0091,Apparel,Activewear,Nova,SUP007,73.45,38.97,2023-06-22,Active
+P00092,Oak & Co. Wallets 0092,Accessories,Wallets,Oak & Co.,SUP020,113.27,46.28,2023-10-13,Active
+P00093,Oak & Co. Bedding 0093,Home & Kitchen,Bedding,Oak & Co.,SUP021,68.39,22.72,2023-06-11,Seasonal
+P00094,Northstar Makeup 0094,Beauty,Makeup,Northstar,SUP080,16.04,10.31,2023-06-10,Active
+P00095,Oak & Co. Outdoor 0095,Sports,Outdoor,Oak & Co.,SUP007,34.62,14.31,2023-08-13,Active
+P00096,Vertex Makeup 0096,Beauty,Makeup,Vertex,SUP011,27.52,15.29,2023-07-01,Active
+P00097,Everline Headphones 0097,Electronics,Headphones,Everline,SUP035,34.27,11.3,2023-11-16,Active
+P00098,UrbanPeak Chargers 0098,Electronics,Chargers,UrbanPeak,SUP057,45.91,14.34,2023-11-05,Active
+P00099,Ridge Smart Devices 0099,Electronics,Smart Devices,Ridge,SUP055,90.49,28.38,2023-12-23,Seasonal
+P00100,UrbanPeak Team Sports 0100,Sports,Team Sports,UrbanPeak,SUP063,9.05,5.38,2023-05-11,Active
+P00101,Crest Outdoor 0101,Sports,Outdoor,Crest,SUP078,73.36,29.79,2023-11-26,Active
+P00102,Luma Speakers 0102,Electronics,Speakers,Luma,SUP057,33.02,7.2,2023-12-27,Active
+P00103,Everline Activewear 0103,Apparel,Activewear,Everline,SUP054,27.39,14.65,2023-09-07,Active
+P00104,Everline Decor 0104,Home & Kitchen,Decor,Everline,SUP035,20.52,6.74,2023-07-14,Discontinued
+P00105,Nova Skincare 0105,Beauty,Skincare,Nova,SUP028,53.88,31.85,2023-10-31,Active
+P00106,Northstar Team Sports 0106,Sports,Team Sports,Northstar,SUP066,36.19,12.85,2023-12-02,Active
+P00107,Nova Headphones 0107,Electronics,Headphones,Nova,SUP015,36.52,10.41,2023-10-13,Active
+P00108,Vertex Storage 0108,Home & Kitchen,Storage,Vertex,SUP045,91.02,46.15,2023-07-11,Active
+P00109,Oak & Co. Decor 0109,Home & Kitchen,Decor,Oak & Co.,SUP056,39.23,20.12,2023-04-24,Active
+P00110,Ridge T-Shirts 0110,Apparel,T-Shirts,Ridge,SUP015,46.43,24.91,2023-08-03,Active
+P00111,Aster Skincare 0111,Beauty,Skincare,Aster,SUP037,184.83,92.58,2023-07-19,Active
+P00112,Everline Outdoor 0112,Sports,Outdoor,Everline,SUP076,51.91,28.14,2023-09-19,Active
+P00113,Oak & Co. Makeup 0113,Beauty,Makeup,Oak & Co.,SUP063,39.85,26.95,2023-11-25,Active
+P00114,UrbanPeak Team Sports 0114,Sports,Team Sports,UrbanPeak,SUP068,124.32,44.69,2023-05-13,Active
+P00115,Everline Cameras 0115,Electronics,Cameras,Everline,SUP040,41.95,12.6,2023-12-02,Active
+P00116,Everline Storage 0116,Home & Kitchen,Storage,Everline,SUP006,20.5,6.72,2023-05-02,Active
+P00117,Oak & Co. Team Sports 0117,Sports,Team Sports,Oak & Co.,SUP029,87.72,38.95,2023-04-20,Active
+P00118,Oak & Co. Haircare 0118,Beauty,Haircare,Oak & Co.,SUP051,106.3,46.56,2023-11-07,Active
+P00119,Aster Jackets 0119,Apparel,Jackets,Aster,SUP077,63.46,32.53,2023-09-10,Active
+P00120,Crest Activewear 0120,Apparel,Activewear,Crest,SUP008,28.54,16.22,2023-10-22,Active
+P00121,Crest Small Appliances 0121,Home & Kitchen,Small Appliances,Crest,SUP001,20.32,9.29,2023-12-09,Active
+P00122,Northstar Jackets 0122,Apparel,Jackets,Northstar,SUP027,28.52,12.92,2023-11-25,Active
+P00123,Aster Sneakers 0123,Footwear,Sneakers,Aster,SUP039,62.57,37.91,2023-11-03,Active
+P00124,UrbanPeak Sneakers 0124,Footwear,Sneakers,UrbanPeak,SUP028,55.72,32.42,2023-05-19,Active
+P00125,Oak & Co. Yoga 0125,Sports,Yoga,Oak & Co.,SUP018,22.59,10.15,2023-07-01,Active
+P00126,Ridge Smart Devices 0126,Electronics,Smart Devices,Ridge,SUP033,45.57,8.72,2023-07-26,Active
+P00127,Ridge Cookware 0127,Home & Kitchen,Cookware,Ridge,SUP038,24.21,8.23,2023-07-28,Seasonal
+P00128,UrbanPeak Headphones 0128,Electronics,Headphones,UrbanPeak,SUP042,33.47,6.98,2023-05-10,Active
+P00129,Crest Jackets 0129,Apparel,Jackets,Crest,SUP016,69.52,36.7,2023-07-04,Active
+P00130,Crest Chargers 0130,Electronics,Chargers,Crest,SUP001,52.98,13.2,2023-04-27,Active
+P00131,Luma Jackets 0131,Apparel,Jackets,Luma,SUP064,17.87,9.28,2023-04-17,Seasonal
+P00132,Vertex Chargers 0132,Electronics,Chargers,Vertex,SUP056,86.6,20.33,2023-11-03,Active
+P00133,Ridge Fragrance 0133,Beauty,Fragrance,Ridge,SUP023,30.5,15.95,2023-06-22,Active
+P00134,Nova Bedding 0134,Home & Kitchen,Bedding,Nova,SUP017,22.73,11.08,2023-08-14,Active
+P00135,UrbanPeak Speakers 0135,Electronics,Speakers,UrbanPeak,SUP049,114.18,45.91,2023-05-30,Active
+P00136,Ridge Skincare 0136,Beauty,Skincare,Ridge,SUP069,35.57,15.35,2023-04-20,Active
+P00137,Vertex T-Shirts 0137,Apparel,T-Shirts,Vertex,SUP030,12.66,6.91,2023-12-28,Discontinued
+P00138,Northstar T-Shirts 0138,Apparel,T-Shirts,Northstar,SUP065,22.59,14.39,2023-06-10,Active
+P00139,Luma Storage 0139,Home & Kitchen,Storage,Luma,SUP072,66.89,22.63,2023-06-02,Discontinued
+P00140,Northstar Sneakers 0140,Footwear,Sneakers,Northstar,SUP046,23.89,14.24,2023-07-19,Discontinued
+P00141,Everline Team Sports 0141,Sports,Team Sports,Everline,SUP010,48.0,27.12,2023-12-04,Active
+P00142,Vertex Bedding 0142,Home & Kitchen,Bedding,Vertex,SUP051,39.86,11.35,2023-12-06,Discontinued
+P00143,UrbanPeak Activewear 0143,Apparel,Activewear,UrbanPeak,SUP006,11.44,7.16,2023-11-15,Active
+P00144,UrbanPeak Chargers 0144,Electronics,Chargers,UrbanPeak,SUP056,12.02,4.82,2023-10-17,Active
+P00145,Nova Formal Shoes 0145,Footwear,Formal Shoes,Nova,SUP003,49.07,30.36,2023-11-04,Active
+P00146,Vertex Storage 0146,Home & Kitchen,Storage,Vertex,SUP059,116.33,40.78,2023-05-24,Active
+P00147,UrbanPeak Cookware 0147,Home & Kitchen,Cookware,UrbanPeak,SUP010,81.9,24.97,2023-10-06,Active
+P00148,UrbanPeak Sandals 0148,Footwear,Sandals,UrbanPeak,SUP041,61.25,37.12,2023-12-04,Active
+P00149,Luma Decor 0149,Home & Kitchen,Decor,Luma,SUP074,22.27,7.93,2023-04-26,Active
+P00150,UrbanPeak Headphones 0150,Electronics,Headphones,UrbanPeak,SUP055,34.02,9.26,2023-12-13,Active
+P00151,Ridge Jackets 0151,Apparel,Jackets,Ridge,SUP074,44.55,28.27,2023-11-03,Active
+P00152,Crest Haircare 0152,Beauty,Haircare,Crest,SUP052,37.9,20.65,2023-06-30,Active
+P00153,Nova Jeans 0153,Apparel,Jeans,Nova,SUP054,52.84,23.83,2023-08-26,Active
+P00154,UrbanPeak Sneakers 0154,Footwear,Sneakers,UrbanPeak,SUP038,16.96,8.41,2023-09-24,Discontinued
+P00155,Crest Decor 0155,Home & Kitchen,Decor,Crest,SUP015,36.95,15.85,2023-12-10,Active
+P00156,Vertex Sunglasses 0156,Accessories,Sunglasses,Vertex,SUP052,26.68,17.91,2023-11-07,Active
+P00157,Oak & Co. Jewelry 0157,Accessories,Jewelry,Oak & Co.,SUP003,8.0,3.47,2023-08-03,Active
+P00158,Luma Cameras 0158,Electronics,Cameras,Luma,SUP042,89.71,18.37,2023-10-16,Active
+P00159,Nova Jeans 0159,Apparel,Jeans,Nova,SUP022,69.12,30.15,2023-09-03,Active
+P00160,Aster Wallets 0160,Accessories,Wallets,Aster,SUP080,94.43,41.74,2023-05-15,Discontinued
+P00161,Northstar Outdoor 0161,Sports,Outdoor,Northstar,SUP059,41.23,21.46,2023-12-20,Active
+P00162,Luma Wallets 0162,Accessories,Wallets,Luma,SUP047,51.73,28.21,2023-06-10,Active
+P00163,Oak & Co. Yoga 0163,Sports,Yoga,Oak & Co.,SUP012,56.64,27.16,2023-04-27,Active
+P00164,Ridge Cookware 0164,Home & Kitchen,Cookware,Ridge,SUP056,30.18,12.0,2023-11-29,Active
+P00165,Aster Jeans 0165,Apparel,Jeans,Aster,SUP014,65.75,36.06,2023-12-03,Active
+P00166,Crest Decor 0166,Home & Kitchen,Decor,Crest,SUP032,33.0,9.38,2023-11-28,Active
+P00167,Ridge Small Appliances 0167,Home & Kitchen,Small Appliances,Ridge,SUP056,58.36,19.47,2023-04-09,Active
+P00168,Aster Chargers 0168,Electronics,Chargers,Aster,SUP076,42.4,13.94,2023-07-11,Seasonal
+P00169,Nova Decor 0169,Home & Kitchen,Decor,Nova,SUP052,115.55,32.59,2023-08-01,Discontinued
+P00170,Crest Chargers 0170,Electronics,Chargers,Crest,SUP068,118.44,36.6,2023-04-28,Active
+P00171,UrbanPeak Headphones 0171,Electronics,Headphones,UrbanPeak,SUP011,30.17,11.46,2023-05-28,Seasonal
+P00172,Aster Jewelry 0172,Accessories,Jewelry,Aster,SUP051,66.47,31.97,2023-11-07,Active
+P00173,Ridge T-Shirts 0173,Apparel,T-Shirts,Ridge,SUP040,50.17,30.49,2023-11-25,Active
+P00174,Northstar Small Appliances 0174,Home & Kitchen,Small Appliances,Northstar,SUP044,49.96,23.36,2023-05-03,Active
+P00175,Luma Storage 0175,Home & Kitchen,Storage,Luma,SUP029,108.86,31.31,2023-04-18,Discontinued
+P00176,Vertex Boots 0176,Footwear,Boots,Vertex,SUP043,57.26,34.42,2023-10-09,Active
+P00177,Nova Jewelry 0177,Accessories,Jewelry,Nova,SUP022,110.36,58.86,2023-07-20,Active
+P00178,Ridge Jackets 0178,Apparel,Jackets,Ridge,SUP010,33.11,15.27,2023-05-28,Active
+P00179,Aster Sandals 0179,Footwear,Sandals,Aster,SUP066,68.47,28.45,2023-06-16,Active
+P00180,Luma Chargers 0180,Electronics,Chargers,Luma,SUP015,33.1,11.79,2023-04-26,Active
+P00181,Northstar Jeans 0181,Apparel,Jeans,Northstar,SUP068,39.38,23.47,2023-09-12,Active
+P00182,UrbanPeak T-Shirts 0182,Apparel,T-Shirts,UrbanPeak,SUP066,15.82,9.37,2024-01-16,Seasonal
+P00183,Oak & Co. Jeans 0183,Apparel,Jeans,Oak & Co.,SUP025,56.55,32.33,2023-12-17,Active
+P00184,Everline Jewelry 0184,Accessories,Jewelry,Everline,SUP045,20.91,9.0,2023-11-13,Active
+P00185,Everline Watches 0185,Accessories,Watches,Everline,SUP045,99.17,42.45,2023-06-19,Active
+P00186,Everline Smart Devices 0186,Electronics,Smart Devices,Everline,SUP019,100.84,41.24,2023-07-23,Active
+P00187,Crest T-Shirts 0187,Apparel,T-Shirts,Crest,SUP031,49.94,26.71,2023-07-22,Active
+P00188,Northstar Makeup 0188,Beauty,Makeup,Northstar,SUP014,63.99,29.95,2023-09-06,Active
+P00189,Northstar Sandals 0189,Footwear,Sandals,Northstar,SUP019,12.81,7.29,2023-04-28,Active
+P00190,Aster Bedding 0190,Home & Kitchen,Bedding,Aster,SUP033,15.97,4.9,2023-07-02,Active
+P00191,Oak & Co. Jewelry 0191,Accessories,Jewelry,Oak & Co.,SUP026,72.54,43.9,2023-09-20,Active
+P00192,UrbanPeak Bedding 0192,Home & Kitchen,Bedding,UrbanPeak,SUP023,21.86,6.62,2023-04-28,Active
+P00193,UrbanPeak Watches 0193,Accessories,Watches,UrbanPeak,SUP078,133.16,63.07,2023-11-09,Active
+P00194,Northstar Cookware 0194,Home & Kitchen,Cookware,Northstar,SUP020,60.18,19.45,2023-06-05,Active
+P00195,Everline T-Shirts 0195,Apparel,T-Shirts,Everline,SUP010,48.68,30.86,2023-05-26,Active
+P00196,UrbanPeak Jackets 0196,Apparel,Jackets,UrbanPeak,SUP023,28.4,13.63,2023-08-27,Active
+P00197,Vertex Outdoor 0197,Sports,Outdoor,Vertex,SUP064,23.1,12.02,2023-05-20,Discontinued
+P00198,UrbanPeak Team Sports 0198,Sports,Team Sports,UrbanPeak,SUP060,23.63,13.86,2023-08-09,Active
+P00199,UrbanPeak Skincare 0199,Beauty,Skincare,UrbanPeak,SUP073,34.77,16.67,2023-12-31,Active
+P00200,Luma Skincare 0200,Beauty,Skincare,Luma,SUP075,31.42,20.5,2023-12-11,Active
+P00201,Vertex Activewear 0201,Apparel,Activewear,Vertex,SUP058,33.6,19.06,2023-12-18,Active
+P00202,Northstar Dresses 0202,Apparel,Dresses,Northstar,SUP073,33.64,16.95,2023-06-03,Active
+P00203,Everline Smart Devices 0203,Electronics,Smart Devices,Everline,SUP080,29.94,7.99,2023-10-06,Active
+P00204,Everline Watches 0204,Accessories,Watches,Everline,SUP042,38.12,23.3,2023-05-28,Active
+P00205,Vertex Dresses 0205,Apparel,Dresses,Vertex,SUP041,25.05,15.44,2023-12-23,Active
+P00206,Oak & Co. Fitness 0206,Sports,Fitness,Oak & Co.,SUP020,23.35,11.47,2023-06-10,Active
+P00207,Oak & Co. Formal Shoes 0207,Footwear,Formal Shoes,Oak & Co.,SUP057,13.57,7.84,2023-10-12,Active
+P00208,Everline Haircare 0208,Beauty,Haircare,Everline,SUP009,26.63,16.02,2023-08-09,Active
+P00209,Everline Sandals 0209,Footwear,Sandals,Everline,SUP061,76.36,33.81,2023-10-08,Active
+P00210,Crest Sneakers 0210,Footwear,Sneakers,Crest,SUP057,22.31,10.74,2023-09-06,Active
+P00211,Vertex Dresses 0211,Apparel,Dresses,Vertex,SUP039,18.46,10.39,2023-12-05,Active
+P00212,Nova Fitness 0212,Sports,Fitness,Nova,SUP036,41.03,25.31,2023-06-15,Discontinued
+P00213,Crest Sunglasses 0213,Accessories,Sunglasses,Crest,SUP076,20.21,10.75,2023-09-12,Active
+P00214,Vertex Cameras 0214,Electronics,Cameras,Vertex,SUP008,35.99,11.99,2023-12-18,Active
+P00215,Northstar Wallets 0215,Accessories,Wallets,Northstar,SUP046,29.2,18.37,2023-07-19,Active
+P00216,Aster Decor 0216,Home & Kitchen,Decor,Aster,SUP065,65.13,21.42,2023-12-10,Active
+P00217,Ridge Speakers 0217,Electronics,Speakers,Ridge,SUP010,48.28,12.84,2023-10-10,Discontinued
+P00218,Vertex Bags 0218,Accessories,Bags,Vertex,SUP040,20.66,12.63,2023-08-09,Active
+P00219,Aster Team Sports 0219,Sports,Team Sports,Aster,SUP060,37.33,23.01,2023-08-17,Active
+P00220,UrbanPeak Team Sports 0220,Sports,Team Sports,UrbanPeak,SUP058,19.29,7.58,2023-12-05,Seasonal
+P00221,Aster Headphones 0221,Electronics,Headphones,Aster,SUP005,16.99,4.27,2023-10-26,Active
+P00222,Aster Makeup 0222,Beauty,Makeup,Aster,SUP008,68.08,41.83,2023-08-09,Active
+P00223,Crest Sunglasses 0223,Accessories,Sunglasses,Crest,SUP048,55.66,28.85,2023-09-11,Active
+P00224,Vertex Team Sports 0224,Sports,Team Sports,Vertex,SUP037,73.58,37.39,2023-07-16,Active
+P00225,Vertex Speakers 0225,Electronics,Speakers,Vertex,SUP010,32.2,8.12,2023-11-24,Active
+P00226,Ridge Makeup 0226,Beauty,Makeup,Ridge,SUP012,39.34,19.65,2023-08-31,Active
+P00227,Luma Fragrance 0227,Beauty,Fragrance,Luma,SUP079,175.72,112.78,2023-09-18,Active
+P00228,Nova Decor 0228,Home & Kitchen,Decor,Nova,SUP077,75.05,29.98,2023-09-30,Active
+P00229,Vertex Boots 0229,Footwear,Boots,Vertex,SUP065,57.09,32.38,2023-08-08,Active
+P00230,Northstar Jeans 0230,Apparel,Jeans,Northstar,SUP050,217.48,95.13,2023-09-03,Active
+P00231,UrbanPeak Formal Shoes 0231,Footwear,Formal Shoes,UrbanPeak,SUP060,15.12,8.37,2023-10-02,Active
+P00232,Oak & Co. Speakers 0232,Electronics,Speakers,Oak & Co.,SUP075,32.32,7.25,2023-11-17,Active
+P00233,Everline Boots 0233,Footwear,Boots,Everline,SUP071,33.02,20.32,2023-06-28,Active
+P00234,Ridge Team Sports 0234,Sports,Team Sports,Ridge,SUP006,53.29,30.86,2023-11-19,Active
+P00235,Oak & Co. Small Appliances 0235,Home & Kitchen,Small Appliances,Oak & Co.,SUP058,54.67,21.03,2023-04-30,Active
+P00236,Ridge Bedding 0236,Home & Kitchen,Bedding,Ridge,SUP074,8.82,3.05,2023-07-26,Active
+P00237,Everline Skincare 0237,Beauty,Skincare,Everline,SUP025,40.28,23.93,2023-10-27,Active
+P00238,Northstar Makeup 0238,Beauty,Makeup,Northstar,SUP042,43.8,19.01,2023-07-20,Active
+P00239,Nova Smart Devices 0239,Electronics,Smart Devices,Nova,SUP078,33.67,12.34,2023-06-25,Active
+P00240,Nova Storage 0240,Home & Kitchen,Storage,Nova,SUP061,47.28,15.61,2023-07-19,Active
+P00241,Crest Speakers 0241,Electronics,Speakers,Crest,SUP065,27.45,6.57,2023-06-24,Discontinued
+P00242,Everline Activewear 0242,Apparel,Activewear,Everline,SUP020,11.93,7.48,2023-07-05,Active
+P00243,Ridge Sandals 0243,Footwear,Sandals,Ridge,SUP008,47.82,23.54,2023-08-13,Active
+P00244,Nova Jewelry 0244,Accessories,Jewelry,Nova,SUP058,27.87,15.06,2023-04-28,Active
+P00245,Crest Dresses 0245,Apparel,Dresses,Crest,SUP014,27.18,11.85,2023-07-20,Active
+P00246,Vertex Speakers 0246,Electronics,Speakers,Vertex,SUP044,77.91,31.54,2023-06-28,Active
+P00247,Aster Haircare 0247,Beauty,Haircare,Aster,SUP011,38.88,17.99,2023-04-26,Active
+P00248,Oak & Co. Bedding 0248,Home & Kitchen,Bedding,Oak & Co.,SUP065,16.23,5.32,2023-04-13,Active
+P00249,UrbanPeak Speakers 0249,Electronics,Speakers,UrbanPeak,SUP023,64.58,18.45,2023-07-10,Active
+P00250,Crest Outdoor 0250,Sports,Outdoor,Crest,SUP006,50.24,26.02,2023-11-15,Active
+P00251,UrbanPeak Skincare 0251,Beauty,Skincare,UrbanPeak,SUP032,17.76,7.93,2023-11-23,Active
+P00252,Ridge Jackets 0252,Apparel,Jackets,Ridge,SUP057,18.78,9.52,2023-11-21,Active
+P00253,Crest Cameras 0253,Electronics,Cameras,Crest,SUP057,15.33,3.71,2023-07-29,Active
+P00254,Ridge Cameras 0254,Electronics,Cameras,Ridge,SUP068,41.46,10.98,2023-10-30,Active
+P00255,Ridge Sandals 0255,Footwear,Sandals,Ridge,SUP067,25.68,10.79,2023-08-08,Active
+P00256,Northstar Headphones 0256,Electronics,Headphones,Northstar,SUP079,32.22,12.17,2023-07-01,Active
+P00257,Vertex Wallets 0257,Accessories,Wallets,Vertex,SUP021,27.93,16.97,2023-07-09,Discontinued
+P00258,Crest Watches 0258,Accessories,Watches,Crest,SUP047,9.68,4.77,2023-04-23,Discontinued
+P00259,Nova Haircare 0259,Beauty,Haircare,Nova,SUP048,52.23,25.05,2023-10-31,Active
+P00260,Aster Jeans 0260,Apparel,Jeans,Aster,SUP037,97.57,48.72,2023-05-26,Active
+P00261,Northstar Jeans 0261,Apparel,Jeans,Northstar,SUP050,20.28,11.17,2023-05-24,Active
+P00262,Northstar Sneakers 0262,Footwear,Sneakers,Northstar,SUP053,27.34,14.57,2023-04-30,Seasonal
+P00263,Northstar T-Shirts 0263,Apparel,T-Shirts,Northstar,SUP044,41.56,20.95,2023-08-26,Active
+P00264,Ridge Jeans 0264,Apparel,Jeans,Ridge,SUP077,93.21,55.04,2023-07-25,Active
+P00265,Oak & Co. Small Appliances 0265,Home & Kitchen,Small Appliances,Oak & Co.,SUP007,48.64,20.02,2023-12-08,Active
+P00266,Oak & Co. Sneakers 0266,Footwear,Sneakers,Oak & Co.,SUP043,78.86,39.47,2023-07-12,Active
+P00267,Vertex Formal Shoes 0267,Footwear,Formal Shoes,Vertex,SUP009,85.26,34.16,2023-10-04,Active
+P00268,Everline Dresses 0268,Apparel,Dresses,Everline,SUP043,125.94,73.8,2023-10-24,Active
+P00269,Ridge Outdoor 0269,Sports,Outdoor,Ridge,SUP013,97.12,46.05,2023-04-13,Active
+P00270,Crest Formal Shoes 0270,Footwear,Formal Shoes,Crest,SUP072,33.82,15.09,2023-07-09,Discontinued
+P00271,Aster Small Appliances 0271,Home & Kitchen,Small Appliances,Aster,SUP050,149.4,52.41,2023-05-27,Active
+P00272,Crest Small Appliances 0272,Home & Kitchen,Small Appliances,Crest,SUP037,43.65,20.59,2023-07-19,Active
+P00273,UrbanPeak Outdoor 0273,Sports,Outdoor,UrbanPeak,SUP033,87.43,44.59,2023-10-23,Active
+P00274,Everline Jeans 0274,Apparel,Jeans,Everline,SUP078,79.24,34.21,2023-08-05,Active
+P00275,Nova Sneakers 0275,Footwear,Sneakers,Nova,SUP020,35.06,17.2,2023-11-23,Active
+P00276,Oak & Co. Headphones 0276,Electronics,Headphones,Oak & Co.,SUP043,23.58,8.71,2023-11-04,Active
+P00277,Nova Fragrance 0277,Beauty,Fragrance,Nova,SUP011,18.83,9.38,2023-04-20,Active
+P00278,Northstar Haircare 0278,Beauty,Haircare,Northstar,SUP075,68.49,45.42,2023-09-07,Active
+P00279,Everline Haircare 0279,Beauty,Haircare,Everline,SUP019,19.86,12.41,2023-10-01,Active
+P00280,Nova Cameras 0280,Electronics,Cameras,Nova,SUP045,144.6,33.39,2023-10-24,Active
+P00281,Aster Dresses 0281,Apparel,Dresses,Aster,SUP040,25.18,11.34,2023-07-29,Active
+P00282,Everline Cookware 0282,Home & Kitchen,Cookware,Everline,SUP051,36.6,13.84,2023-07-18,Active
+P00283,Crest Boots 0283,Footwear,Boots,Crest,SUP017,13.52,7.59,2023-06-06,Discontinued
+P00284,Luma Sneakers 0284,Footwear,Sneakers,Luma,SUP077,76.74,35.37,2023-09-21,Active
+P00285,Northstar Speakers 0285,Electronics,Speakers,Northstar,SUP011,25.35,9.13,2023-06-05,Active
+P00286,UrbanPeak Chargers 0286,Electronics,Chargers,UrbanPeak,SUP040,116.7,47.52,2023-10-07,Active
+P00287,Ridge Fragrance 0287,Beauty,Fragrance,Ridge,SUP072,12.47,7.1,2023-08-09,Active
+P00288,Luma Team Sports 0288,Sports,Team Sports,Luma,SUP049,63.89,23.28,2023-05-18,Active
+P00289,Nova Yoga 0289,Sports,Yoga,Nova,SUP043,17.87,6.48,2023-10-11,Active
+P00290,Ridge Activewear 0290,Apparel,Activewear,Ridge,SUP017,26.25,15.49,2023-05-24,Active
+P00291,Everline Cameras 0291,Electronics,Cameras,Everline,SUP068,40.77,12.39,2023-12-15,Discontinued
+P00292,Aster Dresses 0292,Apparel,Dresses,Aster,SUP012,22.02,13.43,2023-05-29,Active
+P00293,UrbanPeak Cameras 0293,Electronics,Cameras,UrbanPeak,SUP055,53.32,10.11,2023-05-30,Active
+P00294,UrbanPeak Dresses 0294,Apparel,Dresses,UrbanPeak,SUP066,30.96,19.18,2023-09-03,Active
+P00295,Luma Wallets 0295,Accessories,Wallets,Luma,SUP047,26.43,10.73,2023-05-03,Active
+P00296,Luma Speakers 0296,Electronics,Speakers,Luma,SUP003,13.95,2.63,2023-10-09,Discontinued
+P00297,UrbanPeak Dresses 0297,Apparel,Dresses,UrbanPeak,SUP047,47.25,30.92,2023-07-21,Active
+P00298,Aster Makeup 0298,Beauty,Makeup,Aster,SUP040,48.86,30.49,2023-12-25,Active
+P00299,Northstar Jeans 0299,Apparel,Jeans,Northstar,SUP024,35.32,22.15,2023-08-25,Active
+P00300,Everline Jackets 0300,Apparel,Jackets,Everline,SUP028,15.92,7.56,2023-08-20,Seasonal
+P00301,Northstar Sunglasses 0301,Accessories,Sunglasses,Northstar,SUP044,29.15,16.78,2023-11-02,Active
+P00302,Oak & Co. Dresses 0302,Apparel,Dresses,Oak & Co.,SUP063,42.86,26.05,2023-05-08,Active
+P00303,Crest Wallets 0303,Accessories,Wallets,Crest,SUP025,79.41,35.93,2023-11-04,Active
+P00304,Everline Sandals 0304,Footwear,Sandals,Everline,SUP029,17.89,8.73,2023-05-04,Active
+P00305,Ridge Small Appliances 0305,Home & Kitchen,Small Appliances,Ridge,SUP018,31.17,16.07,2023-05-14,Active
+P00306,UrbanPeak Headphones 0306,Electronics,Headphones,UrbanPeak,SUP020,38.69,14.07,2023-06-02,Active
+P00307,Everline Smart Devices 0307,Electronics,Smart Devices,Everline,SUP010,42.39,11.75,2023-10-23,Active
+P00308,Everline Chargers 0308,Electronics,Chargers,Everline,SUP038,61.76,25.34,2023-08-21,Active
+P00309,UrbanPeak Smart Devices 0309,Electronics,Smart Devices,UrbanPeak,SUP013,15.6,2.86,2023-08-15,Active
+P00310,Northstar Sandals 0310,Footwear,Sandals,Northstar,SUP065,75.15,32.12,2023-08-05,Active
+P00311,Ridge Jackets 0311,Apparel,Jackets,Ridge,SUP070,9.96,4.3,2023-09-29,Active
+P00312,Vertex Activewear 0312,Apparel,Activewear,Vertex,SUP068,29.71,19.21,2023-09-02,Seasonal
+P00313,Everline Headphones 0313,Electronics,Headphones,Everline,SUP005,26.65,10.97,2023-08-10,Active
+P00314,Oak & Co. Jeans 0314,Apparel,Jeans,Oak & Co.,SUP044,50.34,30.38,2023-07-07,Active
+P00315,Nova Wallets 0315,Accessories,Wallets,Nova,SUP080,60.76,34.1,2023-06-15,Active
+P00316,Aster Jeans 0316,Apparel,Jeans,Aster,SUP017,61.24,31.33,2023-10-02,Active
+P00317,Oak & Co. Speakers 0317,Electronics,Speakers,Oak & Co.,SUP077,50.36,9.19,2023-12-11,Active
+P00318,Ridge Outdoor 0318,Sports,Outdoor,Ridge,SUP049,26.83,15.69,2023-09-18,Active
+P00319,Oak & Co. Jeans 0319,Apparel,Jeans,Oak & Co.,SUP020,88.09,57.77,2023-06-26,Active
+P00320,Northstar Headphones 0320,Electronics,Headphones,Northstar,SUP021,29.15,10.28,2023-11-19,Discontinued
+P00321,Northstar Formal Shoes 0321,Footwear,Formal Shoes,Northstar,SUP024,48.2,27.99,2023-10-17,Active
+P00322,Northstar Fragrance 0322,Beauty,Fragrance,Northstar,SUP080,22.03,10.12,2023-11-22,Active
+P00323,Oak & Co. Decor 0323,Home & Kitchen,Decor,Oak & Co.,SUP022,35.89,13.38,2023-06-27,Seasonal
+P00324,Everline Fragrance 0324,Beauty,Fragrance,Everline,SUP057,22.1,10.24,2023-04-18,Active
+P00325,Vertex Dresses 0325,Apparel,Dresses,Vertex,SUP006,31.03,20.42,2023-12-07,Active
+P00326,Oak & Co. Bags 0326,Accessories,Bags,Oak & Co.,SUP053,9.49,4.81,2023-08-16,Active
+P00327,UrbanPeak Storage 0327,Home & Kitchen,Storage,UrbanPeak,SUP047,16.95,6.21,2023-11-13,Active
+P00328,Crest Dresses 0328,Apparel,Dresses,Crest,SUP031,22.2,12.46,2023-11-28,Active
+P00329,Northstar Yoga 0329,Sports,Yoga,Northstar,SUP057,41.61,16.63,2023-09-16,Active
+P00330,Ridge Activewear 0330,Apparel,Activewear,Ridge,SUP079,56.89,30.58,2023-05-07,Active
+P00331,Northstar Skincare 0331,Beauty,Skincare,Northstar,SUP037,75.68,40.29,2023-11-20,Active
+P00332,Ridge Activewear 0332,Apparel,Activewear,Ridge,SUP058,38.8,18.58,2023-07-09,Active
+P00333,Northstar Dresses 0333,Apparel,Dresses,Northstar,SUP030,37.07,22.95,2023-12-18,Seasonal
+P00334,Oak & Co. Speakers 0334,Electronics,Speakers,Oak & Co.,SUP069,21.07,5.13,2023-10-22,Active
+P00335,Aster Sneakers 0335,Footwear,Sneakers,Aster,SUP031,9.35,5.34,2023-05-31,Active
+P00336,Oak & Co. Smart Devices 0336,Electronics,Smart Devices,Oak & Co.,SUP040,28.02,9.86,2023-07-01,Active
+P00337,Nova Watches 0337,Accessories,Watches,Nova,SUP061,31.17,12.65,2023-09-05,Active
+P00338,Luma Fragrance 0338,Beauty,Fragrance,Luma,SUP025,52.87,29.42,2023-04-27,Active
+P00339,UrbanPeak Speakers 0339,Electronics,Speakers,UrbanPeak,SUP048,54.28,12.04,2023-06-09,Active
+P00340,Luma Sunglasses 0340,Accessories,Sunglasses,Luma,SUP074,21.72,10.37,2023-04-26,Discontinued
+P00341,UrbanPeak Activewear 0341,Apparel,Activewear,UrbanPeak,SUP057,23.76,10.07,2023-10-08,Active
+P00342,Ridge Bedding 0342,Home & Kitchen,Bedding,Ridge,SUP060,123.42,37.47,2023-12-13,Active
+P00343,Vertex Haircare 0343,Beauty,Haircare,Vertex,SUP037,50.61,24.8,2023-08-14,Active
+P00344,UrbanPeak Speakers 0344,Electronics,Speakers,UrbanPeak,SUP049,35.87,9.69,2023-06-27,Active
+P00345,Nova Outdoor 0345,Sports,Outdoor,Nova,SUP065,22.1,13.41,2023-10-11,Active
+P00346,Oak & Co. Decor 0346,Home & Kitchen,Decor,Oak & Co.,SUP068,46.75,13.9,2023-07-21,Active
+P00347,Oak & Co. Speakers 0347,Electronics,Speakers,Oak & Co.,SUP054,67.88,21.01,2023-09-24,Active
+P00348,Oak & Co. Small Appliances 0348,Home & Kitchen,Small Appliances,Oak & Co.,SUP021,38.07,17.68,2023-09-03,Active
+P00349,Ridge Cookware 0349,Home & Kitchen,Cookware,Ridge,SUP026,201.27,93.28,2023-08-05,Discontinued
+P00350,Nova Dresses 0350,Apparel,Dresses,Nova,SUP078,65.84,43.39,2023-11-20,Active
+P00351,Luma Makeup 0351,Beauty,Makeup,Luma,SUP018,26.4,13.56,2023-10-01,Active
+P00352,Aster Fragrance 0352,Beauty,Fragrance,Aster,SUP033,36.89,18.72,2023-07-31,Active
+P00353,Ridge Jeans 0353,Apparel,Jeans,Ridge,SUP007,135.05,87.48,2023-12-02,Discontinued
+P00354,Oak & Co. Small Appliances 0354,Home & Kitchen,Small Appliances,Oak & Co.,SUP062,59.88,26.11,2023-05-14,Discontinued
+P00355,Everline Storage 0355,Home & Kitchen,Storage,Everline,SUP048,16.24,7.63,2023-08-12,Active
+P00356,Northstar Activewear 0356,Apparel,Activewear,Northstar,SUP071,18.27,11.38,2023-09-30,Active
+P00357,Ridge Bedding 0357,Home & Kitchen,Bedding,Ridge,SUP014,21.29,8.67,2023-11-24,Active
+P00358,UrbanPeak T-Shirts 0358,Apparel,T-Shirts,UrbanPeak,SUP067,76.0,43.87,2023-09-27,Active
+P00359,Vertex Jewelry 0359,Accessories,Jewelry,Vertex,SUP016,80.23,53.96,2023-05-26,Active
+P00360,Luma Fitness 0360,Sports,Fitness,Luma,SUP037,26.72,13.0,2023-08-12,Active
+P00361,Everline Cookware 0361,Home & Kitchen,Cookware,Everline,SUP011,37.91,18.0,2023-06-11,Active
+P00362,Vertex Speakers 0362,Electronics,Speakers,Vertex,SUP021,111.62,30.55,2023-04-24,Active
+P00363,Aster Chargers 0363,Electronics,Chargers,Aster,SUP035,70.44,20.96,2023-09-21,Active
+P00364,Everline Small Appliances 0364,Home & Kitchen,Small Appliances,Everline,SUP058,36.79,10.83,2023-08-24,Active
+P00365,Everline Wallets 0365,Accessories,Wallets,Everline,SUP066,27.17,14.75,2023-12-20,Active
+P00366,Crest Fitness 0366,Sports,Fitness,Crest,SUP019,34.71,20.92,2023-08-30,Active
+P00367,Oak & Co. Jackets 0367,Apparel,Jackets,Oak & Co.,SUP056,19.35,10.17,2023-10-28,Active
+P00368,Aster Dresses 0368,Apparel,Dresses,Aster,SUP012,25.25,11.13,2023-12-01,Active
+P00369,UrbanPeak Jackets 0369,Apparel,Jackets,UrbanPeak,SUP029,38.16,19.22,2023-05-16,Seasonal
+P00370,Crest Wallets 0370,Accessories,Wallets,Crest,SUP058,25.31,10.35,2023-10-12,Active
+P00371,Everline Dresses 0371,Apparel,Dresses,Everline,SUP045,69.74,32.1,2023-07-25,Active
+P00372,Northstar Smart Devices 0372,Electronics,Smart Devices,Northstar,SUP004,72.6,26.07,2023-07-11,Seasonal
+P00373,Nova Team Sports 0373,Sports,Team Sports,Nova,SUP054,72.37,28.78,2023-04-17,Active
+P00374,Aster Small Appliances 0374,Home & Kitchen,Small Appliances,Aster,SUP007,45.51,13.4,2023-04-30,Active
+P00375,Northstar Sandals 0375,Footwear,Sandals,Northstar,SUP051,29.52,13.35,2023-05-28,Discontinued
+P00376,Nova Small Appliances 0376,Home & Kitchen,Small Appliances,Nova,SUP065,43.84,21.72,2023-04-17,Active
+P00377,Ridge Jackets 0377,Apparel,Jackets,Ridge,SUP048,67.87,33.34,2023-08-05,Active
+P00378,Luma Bags 0378,Accessories,Bags,Luma,SUP031,29.85,14.16,2023-05-10,Active
+P00379,UrbanPeak Jewelry 0379,Accessories,Jewelry,UrbanPeak,SUP050,50.72,28.13,2023-09-09,Active
+P00380,Ridge Cookware 0380,Home & Kitchen,Cookware,Ridge,SUP011,23.23,6.51,2023-10-28,Active
+P00381,UrbanPeak Fitness 0381,Sports,Fitness,UrbanPeak,SUP048,29.5,14.95,2023-06-09,Active
+P00382,Oak & Co. Watches 0382,Accessories,Watches,Oak & Co.,SUP029,78.41,42.76,2023-08-19,Active
+P00383,Everline Jeans 0383,Apparel,Jeans,Everline,SUP004,113.28,70.49,2023-09-24,Seasonal
+P00384,UrbanPeak Skincare 0384,Beauty,Skincare,UrbanPeak,SUP041,17.46,7.8,2023-10-30,Active
+P00385,Luma T-Shirts 0385,Apparel,T-Shirts,Luma,SUP013,46.72,26.88,2023-05-13,Active
+P00386,Crest Fitness 0386,Sports,Fitness,Crest,SUP043,73.83,43.19,2023-06-23,Active
+P00387,Vertex Chargers 0387,Electronics,Chargers,Vertex,SUP019,25.27,9.49,2023-11-21,Active
+P00388,Everline Wallets 0388,Accessories,Wallets,Everline,SUP018,22.35,14.5,2023-08-06,Active
+P00389,Everline T-Shirts 0389,Apparel,T-Shirts,Everline,SUP005,49.55,27.98,2023-12-17,Active
+P00390,Vertex Activewear 0390,Apparel,Activewear,Vertex,SUP037,41.63,20.28,2023-06-26,Active
+P00391,Aster Jeans 0391,Apparel,Jeans,Aster,SUP061,35.97,19.51,2023-04-20,Active
+P00392,Everline Haircare 0392,Beauty,Haircare,Everline,SUP018,9.42,4.82,2023-05-30,Seasonal
+P00393,Ridge Chargers 0393,Electronics,Chargers,Ridge,SUP061,27.62,8.16,2023-11-01,Seasonal
+P00394,Nova Dresses 0394,Apparel,Dresses,Nova,SUP058,42.73,25.56,2023-04-21,Active
+P00395,Vertex Skincare 0395,Beauty,Skincare,Vertex,SUP079,39.86,20.57,2023-11-21,Active
+P00396,Crest Activewear 0396,Apparel,Activewear,Crest,SUP001,144.06,80.28,2023-05-07,Active
+P00397,Vertex Chargers 0397,Electronics,Chargers,Vertex,SUP011,22.12,4.69,2023-12-31,Active
+P00398,Everline Formal Shoes 0398,Footwear,Formal Shoes,Everline,SUP003,16.64,7.5,2023-04-25,Active
+P00399,Nova Sandals 0399,Footwear,Sandals,Nova,SUP033,33.97,15.11,2023-08-12,Active
+P00400,Luma Team Sports 0400,Sports,Team Sports,Luma,SUP028,10.05,4.66,2023-06-04,Active
+P00401,Ridge Chargers 0401,Electronics,Chargers,Ridge,SUP020,11.92,3.12,2023-08-30,Active
+P00402,Oak & Co. Fitness 0402,Sports,Fitness,Oak & Co.,SUP071,35.96,15.86,2023-11-01,Active
+P00403,Aster Wallets 0403,Accessories,Wallets,Aster,SUP078,164.33,68.52,2023-06-07,Active
+P00404,Crest Decor 0404,Home & Kitchen,Decor,Crest,SUP068,49.25,15.58,2023-10-18,Active
+P00405,Oak & Co. Headphones 0405,Electronics,Headphones,Oak & Co.,SUP055,28.69,6.59,2023-07-30,Active
+P00406,Northstar Cameras 0406,Electronics,Cameras,Northstar,SUP015,85.04,32.61,2023-09-27,Active
+P00407,Oak & Co. Skincare 0407,Beauty,Skincare,Oak & Co.,SUP037,31.52,16.85,2023-06-10,Active
+P00408,Aster Smart Devices 0408,Electronics,Smart Devices,Aster,SUP031,42.14,9.04,2023-04-24,Active
+P00409,Oak & Co. Cameras 0409,Electronics,Cameras,Oak & Co.,SUP039,29.42,7.34,2023-11-25,Active
+P00410,Everline Fragrance 0410,Beauty,Fragrance,Everline,SUP016,18.09,12.21,2023-11-10,Discontinued
+P00411,Nova Formal Shoes 0411,Footwear,Formal Shoes,Nova,SUP007,14.86,8.25,2023-05-15,Active
+P00412,Everline Boots 0412,Footwear,Boots,Everline,SUP031,20.58,8.37,2023-05-02,Active
+P00413,Vertex T-Shirts 0413,Apparel,T-Shirts,Vertex,SUP054,19.74,9.93,2023-05-04,Active
+P00414,UrbanPeak Activewear 0414,Apparel,Activewear,UrbanPeak,SUP080,87.25,40.84,2023-11-17,Discontinued
+P00415,Aster Jeans 0415,Apparel,Jeans,Aster,SUP059,36.64,15.91,2023-12-09,Active
+P00416,Northstar Cookware 0416,Home & Kitchen,Cookware,Northstar,SUP009,17.77,6.38,2023-04-30,Active
+P00417,Aster Watches 0417,Accessories,Watches,Aster,SUP015,57.46,30.47,2023-06-30,Active
+P00418,Everline Activewear 0418,Apparel,Activewear,Everline,SUP064,38.05,21.22,2023-10-01,Active
+P00419,UrbanPeak Skincare 0419,Beauty,Skincare,UrbanPeak,SUP077,15.69,9.15,2023-09-18,Active
+P00420,Luma Skincare 0420,Beauty,Skincare,Luma,SUP069,87.71,37.72,2023-06-22,Discontinued
+P00421,UrbanPeak Decor 0421,Home & Kitchen,Decor,UrbanPeak,SUP003,29.36,11.43,2023-06-15,Active
+P00422,UrbanPeak Yoga 0422,Sports,Yoga,UrbanPeak,SUP066,15.36,7.24,2023-10-03,Active
+P00423,Vertex Decor 0423,Home & Kitchen,Decor,Vertex,SUP074,57.6,20.68,2023-09-17,Discontinued
+P00424,Luma T-Shirts 0424,Apparel,T-Shirts,Luma,SUP031,32.2,15.98,2023-08-15,Active
+P00425,Everline Sandals 0425,Footwear,Sandals,Everline,SUP019,33.92,18.58,2023-04-22,Active
+P00426,Ridge Cookware 0426,Home & Kitchen,Cookware,Ridge,SUP038,38.37,13.24,2023-11-08,Discontinued
+P00427,Everline Formal Shoes 0427,Footwear,Formal Shoes,Everline,SUP055,81.48,32.25,2023-11-17,Active
+P00428,Ridge Fragrance 0428,Beauty,Fragrance,Ridge,SUP001,24.85,15.76,2023-06-03,Active
+P00429,Northstar Bags 0429,Accessories,Bags,Northstar,SUP079,50.45,31.33,2023-07-04,Active
+P00430,Oak & Co. Fragrance 0430,Beauty,Fragrance,Oak & Co.,SUP046,14.92,7.55,2023-12-09,Active
+P00431,Vertex Makeup 0431,Beauty,Makeup,Vertex,SUP031,40.41,19.37,2023-09-11,Active
+P00432,Nova Small Appliances 0432,Home & Kitchen,Small Appliances,Nova,SUP074,65.84,20.9,2023-09-03,Active
+P00433,Ridge Wallets 0433,Accessories,Wallets,Ridge,SUP054,45.04,26.77,2023-05-03,Active
+P00434,Luma Jewelry 0434,Accessories,Jewelry,Luma,SUP024,40.0,19.75,2023-09-21,Seasonal
+P00435,Crest Outdoor 0435,Sports,Outdoor,Crest,SUP011,32.78,13.93,2023-11-08,Discontinued
+P00436,Ridge Activewear 0436,Apparel,Activewear,Ridge,SUP068,30.04,13.33,2023-06-07,Active
+P00437,Everline Decor 0437,Home & Kitchen,Decor,Everline,SUP047,20.95,9.84,2023-06-20,Active
+P00438,Everline Cameras 0438,Electronics,Cameras,Everline,SUP009,21.63,8.62,2023-05-05,Discontinued
+P00439,UrbanPeak Sunglasses 0439,Accessories,Sunglasses,UrbanPeak,SUP068,30.31,14.01,2023-06-15,Seasonal
+P00440,Northstar Dresses 0440,Apparel,Dresses,Northstar,SUP070,56.53,25.98,2023-11-22,Active
+P00441,UrbanPeak Jewelry 0441,Accessories,Jewelry,UrbanPeak,SUP065,124.43,62.62,2023-06-24,Active
+P00442,Oak & Co. Speakers 0442,Electronics,Speakers,Oak & Co.,SUP065,127.33,50.65,2023-06-23,Active
+P00443,Luma Makeup 0443,Beauty,Makeup,Luma,SUP071,40.52,18.41,2023-12-12,Active
+P00444,Oak & Co. Decor 0444,Home & Kitchen,Decor,Oak & Co.,SUP003,22.26,9.56,2023-06-12,Active
+P00445,Northstar Jeans 0445,Apparel,Jeans,Northstar,SUP050,25.23,16.03,2023-06-11,Active
+P00446,Nova Cookware 0446,Home & Kitchen,Cookware,Nova,SUP061,34.5,9.84,2023-12-18,Active
+P00447,Aster Jackets 0447,Apparel,Jackets,Aster,SUP006,43.48,18.34,2023-05-08,Active
+P00448,UrbanPeak Jewelry 0448,Accessories,Jewelry,UrbanPeak,SUP050,31.71,18.82,2023-11-05,Active
+P00449,Crest Storage 0449,Home & Kitchen,Storage,Crest,SUP048,49.32,17.21,2023-05-08,Active
+P00450,Northstar Jewelry 0450,Accessories,Jewelry,Northstar,SUP033,34.71,22.39,2023-09-07,Active
+P00451,Crest Yoga 0451,Sports,Yoga,Crest,SUP003,31.12,12.84,2023-08-07,Active
+P00452,Northstar Watches 0452,Accessories,Watches,Northstar,SUP046,33.62,22.37,2023-06-21,Active
+P00453,Oak & Co. Cookware 0453,Home & Kitchen,Cookware,Oak & Co.,SUP009,39.28,18.41,2023-11-03,Active
+P00454,UrbanPeak Speakers 0454,Electronics,Speakers,UrbanPeak,SUP045,27.04,7.22,2023-04-15,Active
+P00455,Luma Watches 0455,Accessories,Watches,Luma,SUP031,20.8,12.52,2023-11-10,Seasonal
+P00456,Everline Chargers 0456,Electronics,Chargers,Everline,SUP014,33.5,8.04,2023-05-25,Active
+P00457,Vertex Jewelry 0457,Accessories,Jewelry,Vertex,SUP075,100.29,42.39,2023-08-09,Active
+P00458,Ridge Boots 0458,Footwear,Boots,Ridge,SUP043,238.79,106.52,2023-07-01,Seasonal
+P00459,Northstar Makeup 0459,Beauty,Makeup,Northstar,SUP018,35.89,17.95,2023-09-23,Active
+P00460,Aster Makeup 0460,Beauty,Makeup,Aster,SUP006,35.12,19.04,2023-12-11,Seasonal
+P00461,Aster Decor 0461,Home & Kitchen,Decor,Aster,SUP046,87.92,39.94,2023-05-05,Active
+P00462,Aster Jackets 0462,Apparel,Jackets,Aster,SUP070,22.24,12.95,2023-07-01,Active
+P00463,Everline Bedding 0463,Home & Kitchen,Bedding,Everline,SUP044,79.17,36.89,2023-06-03,Active
+P00464,Vertex Watches 0464,Accessories,Watches,Vertex,SUP023,56.92,25.3,2023-07-10,Active
+P00465,Vertex Sunglasses 0465,Accessories,Sunglasses,Vertex,SUP060,22.94,10.88,2023-04-24,Active
+P00466,Vertex Cookware 0466,Home & Kitchen,Cookware,Vertex,SUP062,21.82,7.11,2023-11-10,Active
+P00467,Vertex Activewear 0467,Apparel,Activewear,Vertex,SUP024,60.74,26.49,2023-08-09,Active
+P00468,Vertex Haircare 0468,Beauty,Haircare,Vertex,SUP018,44.94,30.22,2023-08-24,Active
+P00469,Crest Skincare 0469,Beauty,Skincare,Crest,SUP009,21.27,10.88,2023-05-02,Active
+P00470,Nova Chargers 0470,Electronics,Chargers,Nova,SUP059,64.35,15.97,2023-06-26,Active
+P00471,Crest Jewelry 0471,Accessories,Jewelry,Crest,SUP005,38.22,24.85,2023-07-31,Active
+P00472,Aster Speakers 0472,Electronics,Speakers,Aster,SUP038,49.94,20.86,2023-05-21,Active
+P00473,Luma Outdoor 0473,Sports,Outdoor,Luma,SUP026,73.36,31.68,2024-01-09,Active
+P00474,Aster Fragrance 0474,Beauty,Fragrance,Aster,SUP006,21.52,12.15,2023-05-04,Discontinued
+P00475,Ridge Formal Shoes 0475,Footwear,Formal Shoes,Ridge,SUP026,54.24,29.06,2023-04-28,Active
+P00476,UrbanPeak Yoga 0476,Sports,Yoga,UrbanPeak,SUP006,39.41,19.43,2023-10-22,Active
+P00477,UrbanPeak Skincare 0477,Beauty,Skincare,UrbanPeak,SUP041,78.86,44.49,2023-11-04,Active
+P00478,Ridge T-Shirts 0478,Apparel,T-Shirts,Ridge,SUP040,28.39,13.35,2023-04-26,Active
+P00479,Luma Watches 0479,Accessories,Watches,Luma,SUP066,30.15,17.85,2023-06-17,Active
+P00480,Northstar Chargers 0480,Electronics,Chargers,Northstar,SUP051,16.44,4.42,2023-05-26,Active
+P00481,Northstar Speakers 0481,Electronics,Speakers,Northstar,SUP070,48.62,15.8,2023-11-06,Active
+P00482,Everline Storage 0482,Home & Kitchen,Storage,Everline,SUP061,46.66,22.26,2023-05-28,Active
+P00483,Ridge Decor 0483,Home & Kitchen,Decor,Ridge,SUP033,27.66,13.08,2023-07-31,Active
+P00484,Vertex Sandals 0484,Footwear,Sandals,Vertex,SUP005,14.73,6.6,2023-06-23,Active
+P00485,Luma Speakers 0485,Electronics,Speakers,Luma,SUP025,26.26,6.88,2023-07-21,Active
+P00486,Everline Team Sports 0486,Sports,Team Sports,Everline,SUP037,56.09,32.81,2023-09-30,Active
+P00487,Luma Small Appliances 0487,Home & Kitchen,Small Appliances,Luma,SUP046,36.15,17.32,2023-12-25,Active
+P00488,Luma Activewear 0488,Apparel,Activewear,Luma,SUP007,28.35,16.53,2023-10-04,Active
+P00489,Vertex Makeup 0489,Beauty,Makeup,Vertex,SUP043,35.85,20.3,2023-07-11,Active
+P00490,Everline Decor 0490,Home & Kitchen,Decor,Everline,SUP035,19.28,8.2,2023-12-10,Discontinued
+P00491,Luma Fragrance 0491,Beauty,Fragrance,Luma,SUP016,25.68,14.01,2023-04-21,Active
+P00492,Luma Smart Devices 0492,Electronics,Smart Devices,Luma,SUP048,22.81,8.42,2023-06-22,Discontinued
+P00493,Luma Smart Devices 0493,Electronics,Smart Devices,Luma,SUP056,25.12,8.41,2023-10-25,Active
+P00494,UrbanPeak Smart Devices 0494,Electronics,Smart Devices,UrbanPeak,SUP052,20.9,6.54,2023-12-09,Active
+P00495,Everline Storage 0495,Home & Kitchen,Storage,Everline,SUP057,104.77,42.2,2023-06-26,Discontinued
+P00496,Northstar T-Shirts 0496,Apparel,T-Shirts,Northstar,SUP050,40.03,25.23,2023-10-09,Active
+P00497,Ridge Chargers 0497,Electronics,Chargers,Ridge,SUP044,97.19,17.88,2023-10-28,Active
+P00498,Northstar Jackets 0498,Apparel,Jackets,Northstar,SUP024,53.59,27.13,2024-01-01,Seasonal
+P00499,Ridge Sneakers 0499,Footwear,Sneakers,Ridge,SUP064,24.3,11.28,2023-09-07,Active
+P00500,Northstar Boots 0500,Footwear,Boots,Northstar,SUP064,35.43,21.17,2024-01-10,Active
+P00501,Northstar Haircare 0501,Beauty,Haircare,Northstar,SUP048,78.59,36.53,2023-04-27,Active
+P00502,Oak & Co. Wallets 0502,Accessories,Wallets,Oak & Co.,SUP067,19.9,11.15,2023-04-28,Active
+P00503,Oak & Co. Jewelry 0503,Accessories,Jewelry,Oak & Co.,SUP035,43.71,29.24,2023-06-14,Discontinued
+P00504,Ridge Team Sports 0504,Sports,Team Sports,Ridge,SUP011,11.78,5.77,2023-12-03,Active
+P00505,Everline Makeup 0505,Beauty,Makeup,Everline,SUP055,178.24,86.92,2023-11-08,Active
+P00506,Crest Bags 0506,Accessories,Bags,Crest,SUP011,38.29,21.85,2023-12-08,Active
+P00507,Ridge Wallets 0507,Accessories,Wallets,Ridge,SUP056,18.24,12.36,2023-12-13,Active
+P00508,Ridge Jackets 0508,Apparel,Jackets,Ridge,SUP078,22.91,11.96,2023-06-19,Active
+P00509,Nova Boots 0509,Footwear,Boots,Nova,SUP024,40.36,20.8,2023-12-11,Active
+P00510,Luma Jackets 0510,Apparel,Jackets,Luma,SUP070,76.47,33.24,2023-11-09,Active
+P00511,Luma Outdoor 0511,Sports,Outdoor,Luma,SUP038,47.65,28.59,2023-09-08,Active
+P00512,Aster Makeup 0512,Beauty,Makeup,Aster,SUP042,68.01,43.59,2023-12-06,Active
+P00513,Aster T-Shirts 0513,Apparel,T-Shirts,Aster,SUP014,24.86,12.96,2023-09-01,Active
+P00514,Aster Sunglasses 0514,Accessories,Sunglasses,Aster,SUP011,14.28,7.93,2023-07-25,Active
+P00515,Aster Jeans 0515,Apparel,Jeans,Aster,SUP042,41.68,24.41,2023-11-26,Active
+P00516,Northstar Smart Devices 0516,Electronics,Smart Devices,Northstar,SUP038,51.33,21.39,2023-08-01,Active
+P00517,Everline Cookware 0517,Home & Kitchen,Cookware,Everline,SUP040,34.62,15.47,2023-07-05,Active
+P00518,Ridge Cookware 0518,Home & Kitchen,Cookware,Ridge,SUP058,44.92,19.5,2023-05-09,Active
+P00519,Aster Team Sports 0519,Sports,Team Sports,Aster,SUP078,49.86,28.81,2023-10-02,Active
+P00520,Everline Jeans 0520,Apparel,Jeans,Everline,SUP055,28.76,15.36,2023-12-18,Active
+P00521,Crest Jewelry 0521,Accessories,Jewelry,Crest,SUP022,35.02,21.88,2023-07-16,Active
+P00522,Vertex Fitness 0522,Sports,FITNESS,Vertex,SUP057,39.76,24.03,2023-07-16,Active
+P00523,Crest T-Shirts 0523,Apparel,T-Shirts,Crest,SUP045,53.43,26.78,2023-06-03,Active
+P00524,Vertex Bedding 0524,Home & Kitchen,Bedding,Vertex,SUP058,41.95,14.31,2023-04-21,Active
+P00525,Nova Jackets 0525,Apparel,Jackets,Nova,SUP006,27.27,13.33,2023-04-30,Active
+P00526,Everline Formal Shoes 0526,Footwear,Formal Shoes,Everline,SUP046,47.2,19.58,2023-08-30,Active
+P00527,Everline Dresses 0527,Apparel,Dresses,Everline,SUP079,52.39,31.23,2023-05-29,Active
+P00528,Ridge Dresses 0528,Apparel,Dresses,Ridge,SUP056,37.51,19.41,2023-10-31,Active
+P00529,Luma Decor 0529,Home & Kitchen,Decor,Luma,SUP036,28.88,9.27,2023-05-12,Active
+P00530,Oak & Co. Storage 0530,Home & Kitchen,Storage,Oak & Co.,SUP008,58.05,28.64,2023-08-18,Active
+P00531,Ridge Headphones 0531,Electronics,Headphones,Ridge,SUP010,31.06,9.4,2023-04-09,Active
+P00532,Nova Decor 0532,Home & Kitchen,Decor,Nova,SUP052,90.01,40.7,2023-12-28,Active
+P00533,Nova Fragrance 0533,Beauty,Fragrance,Nova,SUP047,23.29,13.14,2023-11-22,Active
+P00534,Northstar Skincare 0534,Beauty,Skincare,Northstar,SUP066,99.58,46.68,2023-08-16,Active
+P00535,Everline Headphones 0535,Electronics,Headphones,Everline,SUP021,25.42,6.79,2023-07-05,Discontinued
+P00536,Aster Yoga 0536,Sports,Yoga,Aster,SUP004,32.65,16.26,2023-08-05,Active
+P00537,Ridge Dresses 0537,Apparel,Dresses,Ridge,SUP019,21.65,13.58,2023-07-17,Active
+P00538,Aster Headphones 0538,Electronics,Headphones,Aster,SUP078,8.0,2.93,2023-12-28,Discontinued
+P00539,Vertex Fitness 0539,Sports,Fitness,Vertex,SUP057,38.47,17.99,2023-09-03,Active
+P00540,UrbanPeak Outdoor 0540,Sports,Outdoor,UrbanPeak,SUP005,24.75,11.37,2023-09-11,Active
+P00541,Northstar Outdoor 0541,Sports,Outdoor,Northstar,SUP017,17.65,9.07,2023-07-16,Active
+P00542,Vertex Cameras 0542,Electronics,Cameras,Vertex,SUP009,54.84,11.04,2023-09-03,Active
+P00543,Everline Jackets 0543,Apparel,Jackets,Everline,SUP031,14.98,9.06,2023-11-06,Discontinued
+P00544,UrbanPeak Cookware 0544,Home & Kitchen,Cookware,UrbanPeak,SUP047,60.94,25.91,2023-07-28,Active
+P00545,Everline Jeans 0545,Apparel,Jeans,Everline,SUP047,61.86,28.04,2023-11-25,Active
+P00546,Nova Bags 0546,Accessories,Bags,Nova,SUP050,31.79,20.94,2023-07-02,Active
+P00547,Ridge Activewear 0547,Apparel,Activewear,Ridge,SUP073,46.36,26.88,2023-04-16,Discontinued
+P00548,Vertex Fragrance 0548,Beauty,Fragrance,Vertex,SUP005,42.13,26.15,2023-09-09,Active
+P00549,Vertex Activewear 0549,Apparel,Activewear,Vertex,SUP078,43.84,23.35,2023-06-22,Active
+P00550,Nova Bedding 0550,Home & Kitchen,Bedding,Nova,SUP020,13.92,4.49,2023-09-15,Active
+P00551,Crest Sunglasses 0551,Accessories,Sunglasses,Crest,SUP058,49.41,20.61,2023-10-24,Active
+P00552,Northstar Jeans 0552,Apparel,Jeans,Northstar,SUP048,62.38,35.68,2023-07-15,Active
+P00553,Everline Formal Shoes 0553,Footwear,Formal Shoes,Everline,SUP048,87.46,43.2,2023-06-24,Active
+P00554,UrbanPeak Fragrance 0554,Beauty,Fragrance,UrbanPeak,SUP057,74.65,32.15,2023-09-29,Active
+P00555,Everline Formal Shoes 0555,Footwear,Formal Shoes,Everline,SUP010,36.31,18.89,2023-09-07,Seasonal
+P00556,Oak & Co. Makeup 0556,Beauty,Makeup,Oak & Co.,SUP074,62.05,35.03,2023-06-01,Active
+P00557,Northstar Bedding 0557,Home & Kitchen,Bedding,Northstar,SUP018,45.16,18.33,2023-06-09,Active
+P00558,Ridge Fragrance 0558,Beauty,Fragrance,Ridge,SUP068,20.34,10.75,2023-10-07,Active
+P00559,UrbanPeak Smart Devices 0559,Electronics,Smart Devices,UrbanPeak,SUP047,31.71,12.55,2023-11-11,Active
+P00560,Crest Skincare 0560,Beauty,Skincare,Crest,SUP051,45.18,25.41,2023-05-24,Active
+P00561,UrbanPeak Fitness 0561,Sports,Fitness,UrbanPeak,SUP041,35.42,13.19,2023-07-11,Active
+P00562,Vertex Outdoor 0562,Sports,Outdoor,Vertex,SUP036,52.05,19.59,2023-10-12,Active
+P00563,Nova Wallets 0563,Accessories,Wallets,Nova,SUP032,69.51,41.01,2023-06-23,Discontinued
+P00564,Nova Jackets 0564,Apparel,Jackets,Nova,SUP015,16.56,9.98,2023-06-09,Active
+P00565,Aster Skincare 0565,Beauty,Skincare,Aster,SUP004,12.2,6.93,2023-05-08,Active
+P00566,Luma Wallets 0566,Accessories,Wallets,Luma,SUP024,136.41,73.37,2023-07-03,Active
+P00567,Nova Storage 0567,Home & Kitchen,Storage,Nova,SUP064,54.17,23.33,2023-10-10,Active
+P00568,Everline Jeans 0568,Apparel,Jeans,Everline,SUP067,25.86,15.37,2023-08-05,Active
+P00569,Northstar Cameras 0569,Electronics,Cameras,Northstar,SUP050,101.87,36.32,2023-06-03,Active
+P00570,Oak & Co. T-Shirts 0570,Apparel,T-Shirts,Oak & Co.,SUP072,45.51,27.76,2023-04-24,Active
+P00571,Oak & Co. Storage 0571,Home & Kitchen,Storage,Oak & Co.,SUP016,33.05,10.81,2023-06-22,Discontinued
+P00572,Northstar Sneakers 0572,Footwear,Sneakers,Northstar,SUP034,56.03,27.98,2023-09-11,Active
+P00573,Everline Dresses 0573,Apparel,Dresses,Everline,SUP034,29.68,18.28,2023-05-24,Discontinued
+P00574,Crest Small Appliances 0574,Home & Kitchen,Small Appliances,Crest,SUP058,12.48,5.23,2023-04-08,Active
+P00575,Vertex Formal Shoes 0575,Footwear,Formal Shoes,Vertex,SUP028,65.01,35.87,2023-09-27,Active
+P00576,Crest Decor 0576,Home & Kitchen,Decor,Crest,SUP079,54.65,27.82,2023-06-23,Active
+P00577,Northstar Cookware 0577,Home & Kitchen,Cookware,Northstar,SUP037,48.1,21.31,2023-10-15,Active
+P00578,Nova Jeans 0578,Apparel,Jeans,Nova,SUP063,10.92,4.73,2023-04-23,Active
+P00579,Luma Jackets 0579,Apparel,Jackets,Luma,SUP026,118.71,54.43,2023-09-01,Active
+P00580,Ridge Smart Devices 0580,Electronics,Smart Devices,Ridge,SUP016,36.46,14.1,2023-07-06,Active
+P00581,UrbanPeak Small Appliances 0581,Home & Kitchen,Small Appliances,UrbanPeak,SUP018,16.54,5.34,2023-12-10,Active
+P00582,Vertex Skincare 0582,Beauty,Skincare,Vertex,SUP010,61.87,39.63,2023-10-04,Active
+P00583,Luma Haircare 0583,Beauty,Haircare,Luma,SUP058,77.43,46.56,2023-06-17,Active
+P00584,Luma Watches 0584,Accessories,Watches,Luma,SUP023,33.23,17.19,2023-06-10,Active
+P00585,Luma Bedding 0585,Home & Kitchen,Bedding,Luma,SUP057,38.75,18.39,2023-12-08,Active
+P00586,Vertex Wallets 0586,Accessories,Wallets,Vertex,SUP012,39.41,25.57,2023-06-24,Active
+P00587,Vertex Yoga 0587,Sports,Yoga,Vertex,SUP041,94.69,37.54,2023-12-15,Active
+P00588,Northstar Cookware 0588,Home & Kitchen,Cookware,Northstar,SUP045,76.33,25.56,2023-05-11,Seasonal
+P00589,Crest Outdoor 0589,Sports,Outdoor,Crest,SUP009,33.9,15.39,2023-07-28,Seasonal
+P00590,Luma Haircare 0590,Beauty,Haircare,Luma,SUP071,20.91,13.36,2023-06-11,Active
+P00591,Oak & Co. Decor 0591,Home & Kitchen,Decor,Oak & Co.,SUP070,20.49,9.26,2023-12-14,Active
+P00592,Northstar Outdoor 0592,Sports,Outdoor,Northstar,SUP038,48.8,20.56,2023-11-11,Seasonal
+P00593,UrbanPeak T-Shirts 0593,Apparel,T-Shirts,UrbanPeak,SUP039,50.23,29.11,2023-08-13,Active
+P00594,Crest Sneakers 0594,Footwear,Sneakers,Crest,SUP021,26.26,12.75,2023-10-17,Active
+P00595,UrbanPeak Storage 0595,Home & Kitchen,Storage,UrbanPeak,SUP023,75.09,37.55,2023-10-20,Active
+P00596,UrbanPeak Decor 0596,Home & Kitchen,Decor,UrbanPeak,SUP047,20.32,6.51,2023-05-07,Active
+P00597,Everline Makeup 0597,Beauty,Makeup,Everline,SUP066,19.51,10.1,2023-04-17,Active
+P00598,UrbanPeak Speakers 0598,Electronics,Speakers,UrbanPeak,SUP029,8.06,2.59,2023-04-19,Active
+P00599,Oak & Co. Headphones 0599,Electronics,Headphones,Oak & Co.,SUP016,125.45,36.78,2023-09-20,Active
+P00600,Ridge Small Appliances 0600,Home & Kitchen,Small Appliances,Ridge,SUP026,52.96,17.17,2023-06-21,Active
+P00601,Northstar Smart Devices 0601,Electronics,Smart Devices,Northstar,SUP018,38.99,7.22,2023-08-29,Active
+P00602,Everline Dresses 0602,Apparel,Dresses,Everline,SUP031,15.82,9.12,2023-11-18,Active
+P00603,Northstar Smart Devices 0603,Electronics,Smart Devices,Northstar,SUP064,42.55,16.83,2023-08-26,Active
+P00604,Aster Fragrance 0604,Beauty,Fragrance,Aster,SUP004,25.51,12.07,2023-12-13,Active
+P00605,Oak & Co. Dresses 0605,Apparel,Dresses,Oak & Co.,SUP047,21.35,13.73,2023-11-10,Active
+P00606,Northstar Skincare 0606,Beauty,Skincare,Northstar,SUP071,40.04,27.33,2023-11-11,Active
+P00607,Northstar Activewear 0607,Apparel,Activewear,Northstar,SUP074,31.99,14.1,2023-10-25,Active
+P00608,UrbanPeak Bags 0608,Accessories,Bags,UrbanPeak,SUP048,63.25,30.81,2023-09-01,Active
+P00609,Northstar Small Appliances 0609,Home & Kitchen,Small Appliances,Northstar,SUP060,18.69,6.13,2023-06-04,Active
+P00610,Luma Jackets 0610,Apparel,Jackets,Luma,SUP071,24.62,14.15,2023-09-16,Active
+P00611,Ridge Makeup 0611,Beauty,Makeup,Ridge,SUP017,29.56,17.91,2023-05-13,Active
+P00612,Nova Skincare 0612,Beauty,Skincare,Nova,SUP079,20.6,13.19,2023-09-21,Seasonal
+P00613,Vertex Cookware 0613,Home & Kitchen,Cookware,Vertex,SUP012,37.62,19.17,2023-07-22,Active
+P00614,Crest Haircare 0614,Beauty,Haircare,Crest,SUP009,40.63,26.6,2023-10-21,Active
+P00615,Crest Activewear 0615,Apparel,Activewear,Crest,SUP040,11.76,5.35,2023-05-31,Active
+P00616,Everline Sunglasses 0616,Accessories,Sunglasses,Everline,SUP051,72.04,41.5,2023-04-15,Active
+P00617,Ridge T-Shirts 0617,Apparel,T-Shirts,Ridge,SUP062,67.41,36.24,2023-04-24,Active
+P00618,Nova Smart Devices 0618,Electronics,Smart Devices,Nova,SUP068,27.37,5.81,2023-10-28,Active
+P00619,Nova Cameras 0619,Electronics,Cameras,Nova,SUP053,36.43,12.49,2023-11-18,Discontinued
+P00620,UrbanPeak T-Shirts 0620,Apparel,T-Shirts,UrbanPeak,SUP053,92.9,45.48,2023-07-24,Active
+P00621,Ridge Outdoor 0621,Sports,Outdoor,Ridge,SUP074,53.58,29.83,2023-05-05,Seasonal
+P00622,Crest Jewelry 0622,Accessories,Jewelry,Crest,SUP010,29.43,19.58,2023-10-04,Seasonal
+P00623,Everline Sunglasses 0623,Accessories,Sunglasses,Everline,SUP017,31.71,14.95,2023-11-06,Active
+P00624,Oak & Co. Jewelry 0624,Accessories,Jewelry,Oak & Co.,SUP041,20.26,9.64,2023-06-30,Active
+P00625,Oak & Co. Sandals 0625,Footwear,Sandals,Oak & Co.,SUP010,51.03,25.36,2023-07-08,Active
+P00626,Everline Wallets 0626,Accessories,Wallets,Everline,SUP058,39.3,25.22,2023-08-24,Active
+P00627,Vertex Formal Shoes 0627,Footwear,Formal Shoes,Vertex,SUP060,15.53,8.57,2023-12-10,Active
+P00628,Ridge Small Appliances 0628,Home & Kitchen,Small Appliances,Ridge,SUP067,27.75,7.94,2023-08-23,Active
+P00629,Luma Sneakers 0629,Footwear,Sneakers,Luma,SUP045,43.53,26.55,2023-11-23,Active
+P00630,Luma Dresses 0630,Apparel,Dresses,Luma,SUP017,69.15,40.39,2023-08-30,Active
+P00631,Ridge Decor 0631,Home & Kitchen,Decor,Ridge,SUP071,59.49,17.32,2023-07-25,Active
+P00632,Vertex Fragrance 0632,Beauty,Fragrance,Vertex,SUP076,45.29,20.69,2023-10-14,Active
+P00633,UrbanPeak Watches 0633,Accessories,Watches,UrbanPeak,SUP024,152.9,71.05,2023-12-31,Active
+P00634,Everline Watches 0634,Accessories,Watches,Everline,SUP017,13.53,7.35,2023-06-12,Active
+P00635,Ridge T-Shirts 0635,Apparel,T-Shirts,Ridge,SUP056,81.98,36.85,2023-06-08,Active
+P00636,Northstar Wallets 0636,Accessories,Wallets,Northstar,SUP065,37.15,15.57,2023-10-09,Active
+P00637,Oak & Co. Jackets 0637,Apparel,Jackets,Oak & Co.,SUP008,36.57,21.99,2023-06-12,Active
+P00638,Ridge Jewelry 0638,Accessories,Jewelry,Ridge,SUP016,196.17,103.06,2023-10-08,Active
+P00639,Luma Jewelry 0639,Accessories,Jewelry,Luma,SUP067,59.98,36.04,2023-07-12,Active
+P00640,Everline Makeup 0640,Beauty,Makeup,Everline,SUP020,8.0,4.7,2023-08-09,Active
+P00641,Vertex Dresses 0641,Apparel,Dresses,Vertex,SUP039,15.91,9.43,2023-12-20,Active
+P00642,Aster Activewear 0642,Apparel,Activewear,Aster,SUP022,127.19,64.05,2023-07-14,Active
+P00643,Ridge Bags 0643,Accessories,Bags,Ridge,SUP021,30.95,18.65,2023-08-23,Active
+P00644,Nova Jewelry 0644,Accessories,Jewelry,Nova,SUP042,43.85,26.61,2023-05-15,Discontinued
+P00645,UrbanPeak Headphones 0645,Electronics,Headphones,UrbanPeak,SUP029,8.0,1.72,2023-04-22,Active
+P00646,Northstar Makeup 0646,Beauty,Makeup,Northstar,SUP045,16.02,9.09,2023-10-30,Active
+P00647,Aster Team Sports 0647,Sports,Team Sports,Aster,SUP067,36.61,21.92,2023-05-20,Active
+P00648,Nova Makeup 0648,Beauty,Makeup,Nova,SUP037,50.42,22.22,2023-12-17,Active
+P00649,Ridge Headphones 0649,Electronics,Headphones,Ridge,SUP011,28.48,6.53,2023-05-10,Active
+P00650,Crest Jewelry 0650,Accessories,Jewelry,Crest,SUP033,46.01,27.3,2023-07-13,Active
+P00651,UrbanPeak Activewear 0651,Apparel,Activewear,UrbanPeak,SUP026,47.9,25.51,2023-10-29,Discontinued
+P00652,Luma Bags 0652,Accessories,Bags,Luma,SUP071,32.36,15.13,2023-06-19,Active
+P00653,Luma Activewear 0653,Apparel,Activewear,Luma,SUP036,10.19,4.96,2023-12-09,Active
+P00654,Ridge Jewelry 0654,Accessories,Jewelry,Ridge,SUP017,82.36,46.17,2023-08-08,Active
+P00655,Luma Dresses 0655,Apparel,Dresses,Luma,SUP039,102.51,45.7,2023-08-26,Active
+P00656,Everline T-Shirts 0656,Apparel,T-Shirts,Everline,SUP079,25.89,13.06,2023-10-17,Seasonal
+P00657,Aster Storage 0657,Home & Kitchen,Storage,Aster,SUP069,81.99,29.48,2023-10-06,Active
+P00658,Everline Bedding 0658,Home & Kitchen,Bedding,Everline,SUP012,129.05,59.68,2023-06-24,Active
+P00659,Oak & Co. Sandals 0659,Footwear,Sandals,Oak & Co.,SUP065,37.41,18.25,2023-08-14,Active
+P00660,Vertex Activewear 0660,Apparel,Activewear,Vertex,SUP022,23.1,10.32,2023-05-02,Active
+P00661,Aster Jewelry 0661,Accessories,Jewelry,Aster,SUP076,14.49,8.46,2023-08-25,Active
+P00662,Nova Jewelry 0662,Accessories,Jewelry,Nova,SUP075,58.01,38.09,2023-06-16,Active
+P00663,Northstar Headphones 0663,Electronics,Headphones,Northstar,SUP020,37.19,12.83,2023-04-15,Active
+P00664,Crest Storage 0664,Home & Kitchen,Storage,Crest,SUP022,20.38,7.12,2023-11-18,Active
+P00665,Ridge Sandals 0665,Footwear,Sandals,Ridge,SUP080,22.61,11.65,2023-05-21,Active
+P00666,Ridge Activewear 0666,Apparel,Activewear,Ridge,SUP078,112.99,73.25,2023-09-28,Seasonal
+P00667,Nova Haircare 0667,Beauty,Haircare,Nova,SUP044,18.01,10.52,2023-07-18,Active
+P00668,Ridge Watches 0668,Accessories,Watches,Ridge,SUP073,90.05,51.1,2023-10-02,Active
+P00669,Crest Speakers 0669,Electronics,Speakers,Crest,SUP006,20.96,8.66,2023-07-13,Active
+P00670,Crest Yoga 0670,Sports,Yoga,Crest,SUP004,34.68,15.14,2023-12-21,Active
+P00671,Crest Cookware 0671,Home & Kitchen,Cookware,Crest,SUP011,11.67,5.41,2023-07-03,Active
+P00672,Luma Bags 0672,Accessories,Bags,Luma,SUP006,24.79,12.21,2023-10-29,Active
+P00673,Crest Outdoor 0673,Sports,Outdoor,Crest,SUP074,26.53,14.37,2023-11-05,Active
+P00674,Ridge Outdoor 0674,Sports,Outdoor,Ridge,SUP034,58.47,26.51,2023-04-15,Active
+P00675,Nova Decor 0675,Home & Kitchen,Decor,Nova,SUP027,188.23,58.9,2023-06-30,Active
+P00676,Oak & Co. Activewear 0676,Apparel,Activewear,Oak & Co.,SUP074,46.71,28.96,2023-10-24,Seasonal
+P00677,Oak & Co. Cookware 0677,Home & Kitchen,Cookware,Oak & Co.,SUP054,12.72,5.71,2023-09-27,Active
+P00678,Oak & Co. Bedding 0678,Home & Kitchen,Bedding,Oak & Co.,SUP080,52.69,21.99,2023-11-26,Active
+P00679,UrbanPeak Formal Shoes 0679,Footwear,Formal Shoes,UrbanPeak,SUP004,80.22,43.76,2023-10-11,Active
+P00680,Ridge Bags 0680,Accessories,Bags,Ridge,SUP064,28.76,18.22,2023-05-22,Discontinued
+P00681,Ridge Chargers 0681,Electronics,Chargers,Ridge,SUP070,37.51,11.09,2023-07-27,Active
+P00682,Nova Headphones 0682,Electronics,Headphones,Nova,SUP038,22.46,5.72,2023-11-25,Active
+P00683,Luma Speakers 0683,Electronics,Speakers,Luma,SUP039,51.02,12.51,2023-06-22,Active
+P00684,Luma Cookware 0684,Home & Kitchen,Cookware,Luma,SUP062,25.25,8.85,2023-09-01,Active
+P00685,Aster Outdoor 0685,Sports,Outdoor,Aster,SUP032,23.53,11.9,2023-09-29,Seasonal
+P00686,Everline Small Appliances 0686,Home & Kitchen,Small Appliances,Everline,SUP052,59.28,21.98,2023-08-25,Active
+P00687,Crest Smart Devices 0687,Electronics,Smart Devices,Crest,SUP039,30.92,6.2,2023-06-22,Active
+P00688,Everline Sunglasses 0688,Accessories,Sunglasses,Everline,SUP059,70.21,32.42,2023-12-17,Active
+P00689,Everline Jackets 0689,Apparel,Jackets,Everline,SUP010,119.28,56.51,2023-05-13,Active
+P00690,Luma Fragrance 0690,Beauty,Fragrance,Luma,SUP008,15.38,7.5,2023-11-25,Active
+P00691,Crest Formal Shoes 0691,Footwear,Formal Shoes,Crest,SUP021,23.41,14.15,2023-09-22,Active
+P00692,Oak & Co. Small Appliances 0692,Home & Kitchen,Small Appliances,Oak & Co.,SUP057,27.78,12.68,2023-11-25,Active
+P00693,Luma Storage 0693,Home & Kitchen,Storage,Luma,SUP054,20.82,7.6,2023-10-23,Active
+P00694,Aster Formal Shoes 0694,Footwear,Formal Shoes,Aster,SUP062,47.39,23.08,2023-11-27,Discontinued
+P00695,Oak & Co. Activewear 0695,Apparel,Activewear,Oak & Co.,SUP060,81.97,35.92,2023-06-05,Active
+P00696,Ridge Storage 0696,Home & Kitchen,Storage,Ridge,SUP027,88.23,25.5,2023-07-05,Active
+P00697,Northstar Dresses 0697,Apparel,Dresses,Northstar,SUP044,26.63,12.78,2023-08-23,Active
+P00698,Ridge Jeans 0698,Apparel,Jeans,Ridge,SUP078,40.15,24.58,2023-12-01,Active
+P00699,Everline Activewear 0699,Apparel,Activewear,Everline,SUP019,79.45,51.63,2023-10-21,Active
+P00700,Aster Bedding 0700,Home & Kitchen,Bedding,Aster,SUP041,14.61,7.03,2023-09-28,Discontinued
+P00701,Nova Jeans 0701,Apparel,Jeans,Nova,SUP041,143.17,86.52,2023-05-04,Active
+P00702,Crest Headphones 0702,Electronics,Headphones,Crest,SUP045,24.92,6.93,2023-06-02,Active
+P00703,Vertex Sandals 0703,Footwear,Sandals,Vertex,SUP052,18.27,8.21,2023-12-05,Active
+P00704,Ridge Formal Shoes 0704,Footwear,Formal Shoes,Ridge,SUP017,25.6,10.73,2023-12-25,Discontinued
+P00705,UrbanPeak Watches 0705,Accessories,Watches,UrbanPeak,SUP048,19.91,10.05,2023-05-14,Active
+P00706,Everline Team Sports 0706,Sports,Team Sports,Everline,SUP066,25.5,12.03,2023-12-24,Active
+P00707,Crest Bags 0707,Accessories,Bags,Crest,SUP072,84.49,40.62,2023-09-07,Active
+P00708,Luma Jackets 0708,Apparel,Jackets,Luma,SUP014,53.65,31.51,2023-07-05,Active
+P00709,Northstar Jackets 0709,Apparel,Jackets,Northstar,SUP041,37.58,19.94,2023-05-19,Active
+P00710,Aster Yoga 0710,Sports,Yoga,Aster,SUP031,19.81,12.05,2023-09-05,Active
+P00711,Nova Wallets 0711,Accessories,Wallets,Nova,SUP060,20.73,14.04,2023-05-29,Active
+P00712,Luma Fragrance 0712,Beauty,Fragrance,Luma,SUP016,47.91,22.18,2023-09-07,Active
+P00713,Oak & Co. Fragrance 0713,Beauty,Fragrance,Oak & Co.,SUP035,34.59,16.65,2023-08-07,Active
+P00714,Northstar Makeup 0714,Beauty,Makeup,Northstar,SUP058,8.0,5.1,2023-10-18,Active
+P00715,Nova Decor 0715,Home & Kitchen,Decor,Nova,SUP032,15.29,4.49,2023-09-16,Active
+P00716,UrbanPeak Activewear 0716,Apparel,Activewear,UrbanPeak,SUP019,26.67,11.27,2023-04-10,Seasonal
+P00717,Nova Bedding 0717,Home & Kitchen,Bedding,Nova,SUP013,71.49,20.2,2023-07-21,Seasonal
+P00718,Everline Small Appliances 0718,Home & Kitchen,Small Appliances,Everline,SUP007,11.81,4.1,2023-08-09,Seasonal
+P00719,Vertex Fragrance 0719,Beauty,Fragrance,Vertex,SUP038,22.83,12.03,2023-05-23,Active
+P00720,Aster Decor 0720,Home & Kitchen,Decor,Aster,SUP050,35.91,17.08,2023-04-24,Active
+P00721,Everline Wallets 0721,Accessories,Wallets,Everline,SUP079,109.01,73.88,2023-08-03,Active
+P00722,Oak & Co. Boots 0722,Footwear,Boots,Oak & Co.,SUP054,34.06,15.01,2023-05-17,Active
+P00723,Aster Cameras 0723,Electronics,Cameras,Aster,SUP032,112.17,34.72,2023-04-30,Active
+P00724,Northstar Yoga 0724,Sports,Yoga,Northstar,SUP021,31.05,16.62,2023-10-07,Active
+P00725,Luma Wallets 0725,Accessories,Wallets,Luma,SUP042,145.21,86.37,2023-06-13,Active
+P00726,Everline Fragrance 0726,Beauty,Fragrance,Everline,SUP074,32.02,17.51,2023-09-30,Active
+P00727,Nova Skincare 0727,Beauty,Skincare,Nova,SUP041,101.15,60.42,2023-10-27,Active
+P00728,Northstar Jackets 0728,Apparel,Jackets,Northstar,SUP025,17.05,10.8,2023-05-13,Active
+P00729,Northstar Jewelry 0729,Accessories,Jewelry,Northstar,SUP021,23.11,14.73,2023-09-15,Active
+P00730,UrbanPeak Formal Shoes 0730,Footwear,Formal Shoes,UrbanPeak,SUP064,16.98,10.36,2023-11-11,Discontinued
+P00731,Everline Jewelry 0731,Accessories,Jewelry,Everline,SUP066,53.7,26.84,2023-07-27,Active
+P00732,UrbanPeak Chargers 0732,Electronics,Chargers,UrbanPeak,SUP060,39.03,16.17,2023-09-06,Active
+P00733,Crest Dresses 0733,Apparel,Dresses,Crest,SUP064,16.22,8.75,2023-09-04,Active
+P00734,Nova T-Shirts 0734,Apparel,T-Shirts,Nova,SUP040,22.79,10.97,2023-06-12,Active
+P00735,Northstar Jeans 0735,Apparel,Jeans,Northstar,SUP064,22.37,10.82,2023-05-19,Active
+P00736,Aster Bedding 0736,Home & Kitchen,Bedding,Aster,SUP003,49.96,23.28,2023-10-30,Discontinued
+P00737,UrbanPeak Bedding 0737,Home & Kitchen,Bedding,UrbanPeak,SUP012,44.91,20.57,2023-11-28,Active
+P00738,Ridge Jackets 0738,Apparel,Jackets,Ridge,SUP051,24.23,11.51,2023-06-02,Discontinued
+P00739,Nova T-Shirts 0739,Apparel,T-Shirts,Nova,SUP065,23.12,11.28,2023-09-01,Active
+P00740,Nova Small Appliances 0740,Home & Kitchen,Small Appliances,Nova,SUP059,12.05,3.82,2023-06-18,Active
+P00741,Ridge Bags 0741,Accessories,Bags,Ridge,SUP031,17.04,6.86,2023-11-12,Active
+P00742,Everline Fragrance 0742,Beauty,Fragrance,Everline,SUP028,43.8,20.88,2023-12-15,Active
+P00743,Crest T-Shirts 0743,Apparel,T-Shirts,Crest,SUP075,51.51,25.22,2023-12-12,Active
+P00744,Nova Boots 0744,Footwear,Boots,Nova,SUP046,13.4,7.6,2023-08-23,Active
+P00745,UrbanPeak Dresses 0745,Apparel,Dresses,UrbanPeak,SUP007,41.41,26.32,2023-12-13,Seasonal
+P00746,Crest Chargers 0746,Electronics,Chargers,Crest,SUP007,139.93,56.6,2023-12-18,Active
+P00747,Oak & Co. Headphones 0747,Electronics,Headphones,Oak & Co.,SUP037,44.2,9.21,2023-11-27,Active
+P00748,Crest Jewelry 0748,Accessories,Jewelry,Crest,SUP064,71.58,45.47,2023-06-30,Active
+P00749,Luma Decor 0749,Home & Kitchen,Decor,Luma,SUP077,18.63,9.27,2023-09-17,Active
+P00750,Aster Decor 0750,Home & Kitchen,Decor,Aster,SUP061,23.26,8.2,2023-05-15,Active
+P00751,UrbanPeak Sunglasses 0751,Accessories,Sunglasses,UrbanPeak,SUP037,31.35,14.23,2023-08-19,Active
+P00752,Vertex Dresses 0752,Apparel,Dresses,Vertex,SUP069,56.93,25.74,2023-08-16,Active
+P00753,Northstar Headphones 0753,Electronics,Headphones,Northstar,SUP002,48.65,12.84,2023-10-23,Active
+P00754,Vertex Watches 0754,Accessories,Watches,Vertex,SUP014,11.1,7.02,2023-11-04,Active
+P00755,Vertex Cameras 0755,Electronics,Cameras,Vertex,SUP056,189.57,49.22,2023-04-27,Active
+P00756,Luma Small Appliances 0756,Home & Kitchen,Small Appliances,Luma,SUP018,90.59,28.24,2023-08-03,Active
+P00757,Crest Jackets 0757,Apparel,Jackets,Crest,SUP034,24.39,10.25,2023-05-17,Active
+P00758,Everline Jewelry 0758,Accessories,Jewelry,Everline,SUP047,35.7,24.05,2023-07-31,Active
+P00759,Luma Bedding 0759,Home & Kitchen,Bedding,Luma,SUP052,96.42,30.34,2023-09-10,Active
+P00760,Oak & Co. Sneakers 0760,Footwear,Sneakers,Oak & Co.,SUP047,17.89,9.55,2023-09-23,Active
+P00761,Ridge Bedding 0761,Home & Kitchen,Bedding,Ridge,SUP006,37.52,18.06,2023-10-13,Active
+P00762,Luma Cookware 0762,Home & Kitchen,Cookware,Luma,SUP052,45.36,21.77,2023-10-20,Discontinued
+P00763,Vertex Storage 0763,Home & Kitchen,Storage,Vertex,SUP007,21.5,6.53,2023-08-06,Active
+P00764,Northstar Jackets 0764,Apparel,Jackets,Northstar,SUP073,41.39,22.53,2023-04-15,Active
+P00765,Oak & Co. Wallets 0765,Accessories,Wallets,Oak & Co.,SUP072,52.3,24.71,2023-09-10,Active
+P00766,Luma T-Shirts 0766,Apparel,T-Shirts,Luma,SUP025,49.9,24.58,2023-07-17,Active
+P00767,Northstar Speakers 0767,Electronics,Speakers,Northstar,SUP047,111.5,41.24,2023-12-05,Active
+P00768,Luma T-Shirts 0768,Apparel,T-Shirts,Luma,SUP071,56.68,24.07,2023-11-12,Active
+P00769,Vertex Headphones 0769,Electronics,Headphones,Vertex,SUP037,30.32,6.75,2023-05-16,Active
+P00770,Luma Jewelry 0770,Accessories,Jewelry,Luma,SUP010,59.21,35.64,2023-12-10,Active
+P00771,Luma Boots 0771,Footwear,Boots,Luma,SUP050,32.41,17.29,2023-12-13,Active
+P00772,UrbanPeak Makeup 0772,Beauty,Makeup,UrbanPeak,SUP065,33.85,20.25,2023-06-05,Discontinued
+P00773,Vertex Headphones 0773,Electronics,Headphones,Vertex,SUP058,54.75,20.71,2023-12-18,Active
+P00774,Everline Headphones 0774,Electronics,Headphones,Everline,SUP071,61.22,14.97,2023-05-26,Active
+P00775,Nova Smart Devices 0775,Electronics,Smart Devices,Nova,SUP036,20.9,5.88,2023-07-09,Active
+P00776,Oak & Co. T-Shirts 0776,Apparel,T-Shirts,Oak & Co.,SUP080,14.46,7.32,2023-06-14,Active
+P00777,Everline Smart Devices 0777,Electronics,Smart Devices,Everline,SUP079,39.56,13.22,2023-06-07,Discontinued
+P00778,Northstar Team Sports 0778,Sports,Team Sports,Northstar,SUP016,49.62,19.42,2023-12-13,Active
+P00779,Ridge Sandals 0779,Footwear,Sandals,Ridge,SUP017,28.73,11.25,2023-07-15,Active
+P00780,Aster Small Appliances 0780,Home & Kitchen,Small Appliances,Aster,SUP013,80.75,25.14,2023-08-08,Active
+P00781,Oak & Co. Chargers 0781,Electronics,Chargers,Oak & Co.,SUP051,26.52,6.49,2023-09-16,Seasonal
+P00782,UrbanPeak Storage 0782,Home & Kitchen,Storage,UrbanPeak,SUP048,22.07,11.31,2023-10-16,Active
+P00783,Ridge Sunglasses 0783,Accessories,Sunglasses,Ridge,SUP044,49.52,25.14,2023-12-06,Active
+P00784,Nova Small Appliances 0784,Home & Kitchen,Small Appliances,Nova,SUP072,28.96,10.58,2023-10-31,Active
+P00785,Oak & Co. Bedding 0785,Home & Kitchen,Bedding,Oak & Co.,SUP047,38.24,12.22,2023-04-10,Seasonal
+P00786,Nova Storage 0786,Home & Kitchen,Storage,Nova,SUP019,60.58,26.83,2023-10-25,Active
+P00787,Crest Haircare 0787,Beauty,Haircare,Crest,SUP026,77.19,35.3,2023-07-08,Active
+P00788,Everline Storage 0788,Home & Kitchen,Storage,Everline,SUP078,63.66,28.15,2023-11-26,Active
+P00789,Crest Bags 0789,Accessories,Bags,Crest,SUP066,84.32,46.72,2023-08-16,Active
+P00790,Vertex Fragrance 0790,Beauty,Fragrance,Vertex,SUP052,93.74,51.5,2023-11-17,Discontinued
+P00791,Luma Sunglasses 0791,Accessories,Sunglasses,Luma,SUP065,21.29,10.27,2023-09-16,Active
+P00792,Oak & Co. Wallets 0792,Accessories,Wallets,Oak & Co.,SUP006,84.65,44.5,2023-07-18,Seasonal
+P00793,Luma Dresses 0793,Apparel,Dresses,Luma,SUP006,8.0,4.8,2023-08-19,Active
+P00794,Aster Bedding 0794,Home & Kitchen,Bedding,Aster,SUP005,26.19,11.12,2023-05-28,Active
+P00795,Oak & Co. Wallets 0795,Accessories,Wallets,Oak & Co.,SUP018,60.77,38.54,2023-06-11,Active
+P00796,Northstar Chargers 0796,Electronics,Chargers,Northstar,SUP043,51.84,13.63,2023-07-13,Active
+P00797,Northstar Dresses 0797,Apparel,Dresses,Northstar,SUP061,44.04,26.45,2023-08-12,Active
+P00798,Crest Makeup 0798,Beauty,Makeup,Crest,SUP067,19.87,11.53,2023-08-09,Active
+P00799,Luma Small Appliances 0799,Home & Kitchen,Small Appliances,Luma,SUP059,26.77,13.28,2023-04-25,Active
+P00800,UrbanPeak Team Sports 0800,Sports,Team Sports,UrbanPeak,SUP020,30.01,12.0,2023-06-14,Active
+P00801,Luma Sneakers 0801,Footwear,Sneakers,Luma,SUP078,20.56,12.66,2023-06-19,Active
+P00802,Crest Fragrance 0802,Beauty,Fragrance,Crest,SUP066,81.76,47.1,2023-11-10,Active
+P00803,Oak & Co. Watches 0803,Accessories,Watches,Oak & Co.,SUP018,86.82,57.86,2023-04-09,Active
+P00804,Nova Activewear 0804,Apparel,Activewear,Nova,SUP042,8.89,5.66,2023-08-29,Seasonal
+P00805,Crest Outdoor 0805,Sports,Outdoor,Crest,SUP079,51.05,30.91,2023-07-22,Active
+P00806,Everline Headphones 0806,Electronics,Headphones,Everline,SUP041,20.99,7.67,2023-04-19,Active
+P00807,Crest Formal Shoes 0807,Footwear,Formal Shoes,Crest,SUP021,40.28,21.39,2023-09-10,Active
+P00808,Crest Smart Devices 0808,Electronics,Smart Devices,Crest,SUP051,83.18,27.78,2023-09-29,Active
+P00809,Northstar Sunglasses 0809,Accessories,Sunglasses,Northstar,SUP079,35.12,19.16,2023-07-17,Active
+P00810,Aster Smart Devices 0810,Electronics,Smart Devices,Aster,SUP039,92.99,18.14,2023-05-21,Active
+P00811,Vertex Small Appliances 0811,Home & Kitchen,Small Appliances,Vertex,SUP076,102.48,32.91,2023-07-08,Active
+P00812,Nova Jackets 0812,Apparel,Jackets,Nova,SUP044,88.35,41.42,2023-05-04,Discontinued
+P00813,Vertex Formal Shoes 0813,Footwear,Formal Shoes,Vertex,SUP065,37.39,20.5,2023-07-19,Active
+P00814,Oak & Co. Decor 0814,Home & Kitchen,Decor,Oak & Co.,SUP066,42.19,17.59,2023-10-06,Discontinued
+P00815,Vertex Chargers 0815,Electronics,Chargers,Vertex,SUP069,86.27,19.68,2023-06-12,Active
+P00816,Ridge Fragrance 0816,Beauty,Fragrance,Ridge,SUP063,57.05,36.6,2023-05-08,Active
+P00817,Nova Jewelry 0817,Accessories,Jewelry,Nova,SUP073,77.64,42.43,2023-09-16,Active
+P00818,Crest T-Shirts 0818,Apparel,T-Shirts,Crest,SUP039,22.97,15.06,2023-06-11,Active
+P00819,Northstar Chargers 0819,Electronics,Chargers,Northstar,SUP061,38.9,11.24,2023-09-03,Active
+P00820,Nova Small Appliances 0820,Home & Kitchen,Small Appliances,Nova,SUP003,8.0,2.93,2023-08-31,Active
+P00821,Crest Bedding 0821,Home & Kitchen,Bedding,Crest,SUP048,56.93,21.86,2023-07-26,Active
+P00822,UrbanPeak Smart Devices 0822,Electronics,Smart Devices,UrbanPeak,SUP043,16.13,5.03,2023-05-10,Active
+P00823,Everline Cameras 0823,Electronics,Cameras,Everline,SUP015,35.17,13.73,2023-09-23,Active
+P00824,Luma Makeup 0824,Beauty,Makeup,Luma,SUP054,100.81,48.99,2023-08-24,Active
+P00825,Crest Decor 0825,Home & Kitchen,Decor,Crest,SUP075,23.11,6.57,2023-08-28,Active
+P00826,Aster Headphones 0826,Electronics,Headphones,Aster,SUP040,29.4,12.3,2023-11-06,Active
+P00827,Everline Fragrance 0827,Beauty,Fragrance,Everline,SUP004,36.82,21.23,2023-12-12,Active
+P00828,UrbanPeak Sandals 0828,Footwear,Sandals,UrbanPeak,SUP077,8.0,3.17,2023-06-15,Active
+P00829,UrbanPeak T-Shirts 0829,Apparel,T-Shirts,UrbanPeak,SUP061,60.16,29.23,2023-05-26,Active
+P00830,UrbanPeak Fitness 0830,Sports,Fitness,UrbanPeak,SUP034,28.12,15.46,2023-04-08,Active
+P00831,Vertex Bedding 0831,Home & Kitchen,Bedding,Vertex,SUP075,9.39,3.29,2023-07-05,Active
+P00832,Luma Jewelry 0832,Accessories,Jewelry,Luma,SUP074,63.54,30.27,2023-04-23,Active
+P00833,Everline Smart Devices 0833,Electronics,Smart Devices,Everline,SUP030,32.99,6.73,2023-11-02,Active
+P00834,Ridge Outdoor 0834,Sports,Outdoor,Ridge,SUP007,8.0,3.65,2023-09-03,Active
+P00835,Oak & Co. Sandals 0835,Footwear,Sandals,Oak & Co.,SUP075,64.42,39.92,2023-09-25,Active
+P00836,UrbanPeak Outdoor 0836,Sports,Outdoor,UrbanPeak,SUP062,58.21,26.99,2023-06-23,Active
+P00837,Vertex Storage 0837,Home & Kitchen,Storage,Vertex,SUP022,69.5,19.74,2023-07-20,Active
+P00838,Nova Makeup 0838,Beauty,Makeup,Nova,SUP068,24.07,13.13,2023-07-03,Active
+P00839,Nova Jeans 0839,Apparel,Jeans,Nova,SUP080,21.9,14.05,2023-05-10,Discontinued
+P00840,Ridge T-Shirts 0840,Apparel,T-Shirts,Ridge,SUP049,16.85,9.43,2023-10-25,Active
+P00841,Northstar T-Shirts 0841,Apparel,T-Shirts,Northstar,SUP019,18.22,10.38,2024-01-10,Active
+P00842,Crest Smart Devices 0842,Electronics,Smart Devices,Crest,SUP032,36.72,7.12,2023-07-22,Active
+P00843,Luma Speakers 0843,Electronics,Speakers,Luma,SUP005,74.89,14.74,2023-11-09,Active
+P00844,UrbanPeak Fitness 0844,Sports,Fitness,UrbanPeak,SUP074,149.37,64.44,2023-12-16,Active
+P00845,Northstar Cameras 0845,Electronics,Cameras,Northstar,SUP015,25.03,9.75,2023-05-03,Active
+P00846,Oak & Co. Decor 0846,Home & Kitchen,Decor,Oak & Co.,SUP025,28.01,12.31,2023-07-26,Seasonal
+P00847,Aster Chargers 0847,Electronics,Chargers,Aster,SUP003,43.56,15.7,2023-10-03,Active
+P00848,UrbanPeak Skincare 0848,Beauty,Skincare,UrbanPeak,SUP057,18.89,8.37,2023-04-30,Active
+P00849,Nova Jackets 0849,Apparel,Jackets,Nova,SUP041,18.73,10.21,2023-07-04,Active
+P00850,UrbanPeak Team Sports 0850,Sports,Team Sports,UrbanPeak,SUP054,88.89,33.89,2023-06-09,Discontinued
+P00851,Northstar Speakers 0851,Electronics,Speakers,Northstar,SUP020,38.38,15.16,2023-05-29,Active
+P00852,Crest Chargers 0852,Electronics,Chargers,Crest,SUP053,17.3,6.95,2023-07-22,Discontinued
+P00853,Vertex Jeans 0853,Apparel,Jeans,Vertex,SUP027,36.11,20.98,2023-11-25,Active
+P00854,Aster Chargers 0854,Electronics,Chargers,Aster,SUP053,13.64,5.0,2023-11-06,Active
+P00855,Northstar Bedding 0855,Home & Kitchen,Bedding,Northstar,SUP065,46.46,22.85,2023-12-24,Discontinued
+P00856,Ridge Watches 0856,Accessories,Watches,Ridge,SUP079,86.71,41.97,2023-11-20,Active
+P00857,Luma Bedding 0857,Home & Kitchen,Bedding,Luma,SUP061,74.95,30.77,2023-05-22,Discontinued
+P00858,Everline Activewear 0858,Apparel,Activewear,Everline,SUP008,44.5,27.51,2023-10-17,Active
+P00859,Nova Decor 0859,Home & Kitchen,Decor,Nova,SUP018,28.82,13.01,2023-10-02,Active
+P00860,Nova Outdoor 0860,Sports,Outdoor,Nova,SUP067,30.15,10.69,2023-04-15,Active
+P00861,Nova Sandals 0861,Footwear,Sandals,Nova,SUP027,64.82,28.96,2023-09-28,Active
+P00862,Northstar Speakers 0862,Electronics,Speakers,Northstar,SUP072,56.44,21.17,2023-09-02,Active
+P00863,Nova Jackets 0863,Apparel,Jackets,Nova,SUP042,26.95,11.85,2023-08-22,Active
+P00864,Oak & Co. Jackets 0864,Apparel,Jackets,Oak & Co.,SUP062,31.14,13.38,2023-06-25,Active
+P00865,Nova T-Shirts 0865,Apparel,T-Shirts,Nova,SUP068,31.99,14.09,2023-06-23,Active
+P00866,Oak & Co. Jewelry 0866,Accessories,Jewelry,Oak & Co.,SUP049,40.36,18.56,2023-04-20,Active
+P00867,Nova Sneakers 0867,Footwear,Sneakers,Nova,SUP041,36.71,19.29,2023-07-17,Active
+P00868,Ridge Storage 0868,Home & Kitchen,Storage,Ridge,SUP023,12.34,4.89,2023-06-06,Active
+P00869,Vertex Chargers 0869,Electronics,Chargers,Vertex,SUP059,9.57,2.62,2023-09-13,Active
+P00870,Northstar Jewelry 0870,Accessories,Jewelry,Northstar,SUP069,37.23,21.4,2023-05-06,Active
+P00871,Everline Sunglasses 0871,Accessories,Sunglasses,Everline,SUP044,12.76,5.16,2023-12-04,Seasonal
+P00872,Everline Sandals 0872,Footwear,Sandals,Everline,SUP070,51.89,24.18,2023-10-21,Active
+P00873,Ridge Headphones 0873,Electronics,Headphones,Ridge,SUP046,17.14,6.05,2023-12-07,Active
+P00874,UrbanPeak Yoga 0874,Sports,Yoga,UrbanPeak,SUP034,45.7,21.89,2023-11-22,Active
+P00875,Oak & Co. Cookware 0875,Home & Kitchen,Cookware,Oak & Co.,SUP079,53.52,26.42,2023-10-31,Active
+P00876,Nova Decor 0876,Home & Kitchen,Decor,Nova,SUP062,56.14,25.69,2023-04-27,Active
+P00877,Oak & Co. Cameras 0877,Electronics,Cameras,Oak & Co.,SUP025,20.92,7.65,2023-09-13,Active
+P00878,Aster T-Shirts 0878,Apparel,T-Shirts,Aster,SUP032,32.91,21.49,2023-11-28,Active
+P00879,Ridge Small Appliances 0879,Home & Kitchen,Small Appliances,Ridge,SUP036,113.37,46.21,2023-11-10,Active
+P00880,Everline Sandals 0880,Footwear,Sandals,Everline,SUP072,74.65,42.16,2023-05-28,Active
+P00881,Luma Makeup 0881,Beauty,Makeup,Luma,SUP039,61.64,29.64,2023-06-29,Active
+P00882,Vertex Formal Shoes 0882,Footwear,Formal Shoes,Vertex,SUP029,48.49,29.85,2023-04-23,Active
+P00883,Vertex Team Sports 0883,Sports,Team Sports,Vertex,SUP039,16.43,7.89,2023-05-29,Active
+P00884,Everline Sneakers 0884,Footwear,Sneakers,Everline,SUP037,28.28,13.15,2023-05-03,Active
+P00885,Vertex Haircare 0885,Beauty,Haircare,Vertex,SUP027,54.52,35.49,2023-10-15,Active
+P00886,Crest Small Appliances 0886,Home & Kitchen,Small Appliances,Crest,SUP063,52.12,21.69,2023-12-07,Active
+P00887,Ridge Sneakers 0887,Footwear,Sneakers,Ridge,SUP041,17.2,8.26,2023-05-09,Active
+P00888,Oak & Co. Bedding 0888,Home & Kitchen,Bedding,Oak & Co.,SUP062,25.35,11.5,2023-07-13,Active
+P00889,Nova Cameras 0889,Electronics,Cameras,Nova,SUP045,74.46,22.32,2023-07-04,Active
+P00890,Everline Sandals 0890,Footwear,Sandals,Everline,SUP072,76.39,34.64,2023-10-02,Active
+P00891,UrbanPeak Cameras 0891,Electronics,Cameras,UrbanPeak,SUP036,12.97,2.39,2023-08-08,Active
+P00892,Aster Boots 0892,Footwear,Boots,Aster,SUP037,64.76,33.65,2023-09-14,Active
+P00893,Oak & Co. Headphones 0893,Electronics,Headphones,Oak & Co.,SUP016,20.33,7.9,2023-10-05,Active
+P00894,Northstar Dresses 0894,Apparel,Dresses,Northstar,SUP074,69.25,36.95,2023-10-06,Active
+P00895,Northstar Decor 0895,Home & Kitchen,Decor,Northstar,SUP070,24.28,9.47,2023-12-07,Active
+P00896,Vertex Speakers 0896,Electronics,Speakers,Vertex,SUP049,24.64,10.25,2023-11-25,Active
+P00897,Vertex Cookware 0897,Home & Kitchen,Cookware,Vertex,SUP051,28.4,12.47,2023-07-23,Active
+P00898,UrbanPeak Wallets 0898,Accessories,Wallets,UrbanPeak,SUP045,27.88,18.56,2023-12-05,Active
+P00899,Everline Bags 0899,Accessories,Bags,Everline,SUP019,69.75,35.74,2023-04-23,Active
+P00900,Northstar Skincare 0900,Beauty,Skincare,Northstar,SUP038,47.73,29.16,2023-11-23,Active
+P00901,Nova Smart Devices 0901,Electronics,Smart Devices,Nova,SUP006,79.83,27.49,2023-10-26,Active
+P00902,Everline Jewelry 0902,Accessories,Jewelry,Everline,SUP037,89.34,59.86,2023-08-14,Active
+P00903,Ridge T-Shirts 0903,Apparel,T-Shirts,Ridge,SUP011,25.66,13.93,2023-07-15,Active
+P00904,Oak & Co. Cookware 0904,Home & Kitchen,Cookware,Oak & Co.,SUP045,67.54,22.63,2023-09-28,Active
+P00905,Everline Jeans 0905,Apparel,Jeans,Everline,SUP057,26.57,16.98,2023-05-15,Active
+P00906,Ridge Sunglasses 0906,Accessories,Sunglasses,Ridge,SUP033,59.14,28.77,2023-08-03,Active
+P00907,UrbanPeak Storage 0907,Home & Kitchen,Storage,UrbanPeak,SUP062,83.12,26.65,2023-10-23,Active
+P00908,Crest Jewelry 0908,Accessories,Jewelry,Crest,SUP028,181.52,73.35,2023-08-16,Active
+P00909,Northstar Jewelry 0909,Accessories,Jewelry,Northstar,SUP026,67.88,42.96,2023-12-14,Active
+P00910,Nova Sandals 0910,Footwear,Sandals,Nova,SUP069,34.01,15.94,2023-05-05,Active
+P00911,Aster Activewear 0911,Apparel,Activewear,Aster,SUP035,77.19,41.3,2023-09-05,Active
+P00912,Crest Speakers 0912,Electronics,Speakers,Crest,SUP072,40.86,13.11,2023-06-04,Active
+P00913,Nova Haircare 0913,Beauty,Haircare,Nova,SUP035,53.53,31.9,2023-09-20,Active
+P00914,Everline Dresses 0914,Apparel,Dresses,Everline,SUP018,68.92,43.95,2023-11-25,Active
+P00915,Ridge Bags 0915,Accessories,Bags,Ridge,SUP014,43.11,23.26,2023-04-30,Active
+P00916,Ridge Yoga 0916,Sports,Yoga,Ridge,SUP079,41.38,23.99,2023-08-05,Active
+P00917,UrbanPeak Sunglasses 0917,Accessories,Sunglasses,UrbanPeak,SUP076,46.05,24.98,2023-08-26,Active
+P00918,Oak & Co. Formal Shoes 0918,Footwear,Formal Shoes,Oak & Co.,SUP031,52.1,27.47,2023-07-04,Active
+P00919,Nova Makeup 0919,Beauty,Makeup,Nova,SUP032,55.14,34.16,2023-09-23,Active
+P00920,Oak & Co. T-Shirts 0920,Apparel,T-Shirts,Oak & Co.,SUP007,46.12,20.21,2023-11-19,Discontinued
+P00921,UrbanPeak Jackets 0921,Apparel,Jackets,UrbanPeak,SUP068,21.47,13.24,2023-12-13,Active
+P00922,Ridge Chargers 0922,Electronics,Chargers,Ridge,SUP029,31.88,7.86,2023-09-20,Active
+P00923,Vertex Fragrance 0923,Beauty,Fragrance,Vertex,SUP030,104.88,60.58,2023-07-20,Active
+P00924,Crest Yoga 0924,Sports,Yoga,Crest,SUP007,68.72,30.76,2023-06-02,Active
+P00925,Luma Boots 0925,Footwear,Boots,Luma,SUP013,11.17,6.29,2023-11-24,Active
+P00926,Northstar Jackets 0926,Apparel,Jackets,Northstar,SUP053,25.41,12.99,2023-11-18,Active
+P00927,Vertex Fitness 0927,Sports,Fitness,Vertex,SUP043,22.87,10.32,2023-08-24,Seasonal
+P00928,Vertex Team Sports 0928,Sports,Team Sports,Vertex,SUP061,41.44,17.1,2023-06-09,Active
+P00929,Northstar Activewear 0929,Apparel,Activewear,Northstar,SUP013,13.27,7.34,2023-06-12,Seasonal
+P00930,Oak & Co. Jackets 0930,Apparel,Jackets,Oak & Co.,SUP018,24.18,13.57,2023-05-13,Active
+P00931,Vertex Cookware 0931,Home & Kitchen,Cookware,Vertex,SUP001,130.33,47.93,2023-09-18,Active
+P00932,Nova Dresses 0932,Apparel,Dresses,Nova,SUP071,8.0,3.47,2023-08-29,Active
+P00933,Nova Jackets 0933,Apparel,Jackets,Nova,SUP021,60.17,25.44,2023-04-17,Active
+P00934,Ridge Chargers 0934,Electronics,Chargers,Ridge,SUP053,10.42,2.62,2023-07-15,Active
+P00935,Aster Headphones 0935,Electronics,Headphones,Aster,SUP061,27.67,8.42,2023-07-13,Active
+P00936,Northstar Formal Shoes 0936,Footwear,Formal Shoes,Northstar,SUP062,202.98,96.48,2023-08-29,Discontinued
+P00937,Crest Cookware 0937,Home & Kitchen,Cookware,Crest,SUP026,41.3,19.21,2023-09-19,Seasonal
+P00938,Oak & Co. Jeans 0938,Apparel,Jeans,Oak & Co.,SUP037,44.85,25.95,2023-12-02,Active
+P00939,UrbanPeak Cameras 0939,Electronics,Cameras,UrbanPeak,SUP042,21.85,8.62,2023-07-27,Active
+P00940,Vertex T-Shirts 0940,Apparel,T-Shirts,Vertex,SUP037,76.59,33.14,2023-06-01,Active
+P00941,Ridge Cookware 0941,Home & Kitchen,Cookware,Ridge,SUP008,102.53,41.55,2023-12-22,Active
+P00942,Aster Smart Devices 0942,Electronics,Smart Devices,Aster,SUP012,46.52,13.38,2023-07-02,Active
+P00943,Crest Haircare 0943,Beauty,Haircare,Crest,SUP074,20.17,12.22,2023-06-01,Active
+P00944,Oak & Co. Boots 0944,Footwear,Boots,Oak & Co.,SUP030,29.88,16.32,2023-04-23,Active
+P00945,Northstar Bedding 0945,Home & Kitchen,Bedding,Northstar,SUP069,25.99,7.66,2023-07-28,Active
+P00946,Nova Storage 0946,Home & Kitchen,Storage,Nova,SUP005,8.0,3.98,2023-04-20,Active
+P00947,Aster Headphones 0947,Electronics,Headphones,Aster,SUP023,50.74,9.38,2023-10-23,Active
+P00948,Ridge Boots 0948,Footwear,Boots,Ridge,SUP054,22.56,13.71,2023-10-04,Active
+P00949,Northstar Cameras 0949,Electronics,Cameras,Northstar,SUP023,81.86,31.92,2023-04-19,Active
+P00950,Vertex Jeans 0950,Apparel,Jeans,Vertex,SUP005,55.4,26.47,2023-12-14,Active
+P00951,Nova Storage 0951,Home & Kitchen,Storage,Nova,SUP051,19.45,7.06,2023-10-09,Active
+P00952,UrbanPeak Decor 0952,Home & Kitchen,Decor,UrbanPeak,SUP064,29.11,10.59,2023-11-27,Active
+P00953,Northstar Jeans 0953,Apparel,Jeans,Northstar,SUP024,90.31,38.95,2023-04-30,Active
+P00954,Vertex Activewear 0954,Apparel,Activewear,Vertex,SUP038,42.5,21.64,2023-09-05,Seasonal
+P00955,Ridge Bags 0955,Accessories,Bags,Ridge,SUP005,75.44,33.76,2023-12-03,Active
+P00956,Nova Decor 0956,Home & Kitchen,Decor,Nova,SUP002,79.92,32.41,2023-10-21,Active
+P00957,Everline Wallets 0957,Accessories,Wallets,Everline,SUP039,16.56,8.9,2023-06-16,Active
+P00958,Ridge Wallets 0958,Accessories,Wallets,Ridge,SUP073,29.86,16.83,2023-07-17,Active
+P00959,Ridge Bedding 0959,Home & Kitchen,Bedding,Ridge,SUP078,31.53,13.6,2023-06-29,Active
+P00960,Nova Watches 0960,Accessories,Watches,Nova,SUP014,95.2,56.31,2023-07-22,Active
+P00961,UrbanPeak Outdoor 0961,Sports,Outdoor,UrbanPeak,SUP043,61.99,30.25,2023-10-06,Active
+P00962,Northstar Headphones 0962,Electronics,Headphones,Northstar,SUP037,50.44,9.59,2023-12-22,Active
+P00963,Crest T-Shirts 0963,Apparel,T-Shirts,Crest,SUP059,74.42,44.37,2023-12-02,Active
+P00964,Ridge Chargers 0964,Electronics,Chargers,Ridge,SUP070,48.31,15.79,2023-07-13,Active
+P00965,Oak & Co. Bags 0965,Accessories,Bags,Oak & Co.,SUP068,47.35,20.32,2023-06-10,Active
+P00966,Northstar Jackets 0966,Apparel,Jackets,Northstar,SUP064,59.85,29.25,2023-11-17,Active
+P00967,Oak & Co. Haircare 0967,Beauty,Haircare,Oak & Co.,SUP018,30.73,14.84,2023-05-19,Active
+P00968,Oak & Co. Bedding 0968,Home & Kitchen,Bedding,Oak & Co.,SUP065,38.77,12.25,2023-07-15,Active
+P00969,Vertex Watches 0969,Accessories,Watches,Vertex,SUP060,36.43,17.47,2023-06-04,Active
+P00970,Northstar T-Shirts 0970,Apparel,T-Shirts,Northstar,SUP035,59.77,27.75,2023-11-12,Active
+P00971,Everline Jeans 0971,Apparel,Jeans,Everline,SUP025,61.46,28.08,2023-06-26,Seasonal
+P00972,Vertex Smart Devices 0972,Electronics,Smart Devices,Vertex,SUP015,51.69,15.19,2023-06-02,Active
+P00973,Nova Cookware 0973,Home & Kitchen,Cookware,Nova,SUP043,76.39,38.16,2023-12-10,Active
+P00974,Everline Storage 0974,Home & Kitchen,Storage,Everline,SUP021,13.51,6.52,2023-07-20,Active
+P00975,UrbanPeak Small Appliances 0975,Home & Kitchen,Small Appliances,UrbanPeak,SUP059,43.33,21.7,2023-10-23,Active
+P00976,Crest Activewear 0976,Apparel,Activewear,Crest,SUP033,44.87,18.9,2023-06-10,Seasonal
+P00977,Everline T-Shirts 0977,Apparel,T-Shirts,Everline,SUP024,26.37,12.71,2023-11-08,Discontinued
+P00978,UrbanPeak Skincare 0978,Beauty,Skincare,UrbanPeak,SUP002,57.93,37.9,2023-06-06,Active
+P00979,Aster Dresses 0979,Apparel,Dresses,Aster,SUP044,37.37,22.21,2023-11-13,Discontinued
+P00980,Crest Speakers 0980,Electronics,Speakers,Crest,SUP038,12.87,3.37,2023-04-21,Active
+P00981,Luma Smart Devices 0981,Electronics,Smart Devices,Luma,SUP073,18.59,5.65,2023-10-26,Active
+P00982,Ridge Skincare 0982,Beauty,Skincare,Ridge,SUP025,29.2,19.75,2023-04-13,Active
+P00983,Northstar Small Appliances 0983,Home & Kitchen,Small Appliances,Northstar,SUP023,79.66,34.67,2023-10-11,Active
+P00984,Ridge Bedding 0984,Home & Kitchen,Bedding,Ridge,SUP079,128.61,66.28,2023-10-10,Active
+P00985,UrbanPeak Haircare 0985,Beauty,Haircare,UrbanPeak,SUP052,63.37,38.59,2023-10-10,Active
+P00986,Oak & Co. Sneakers 0986,Footwear,sneakers,Oak & Co.,SUP055,22.36,12.91,2023-06-11,Active
+P00987,Oak & Co. Activewear 0987,Apparel,Activewear,Oak & Co.,SUP066,33.53,16.03,2023-12-25,Active
+P00988,UrbanPeak Team Sports 0988,Sports,Team Sports,UrbanPeak,SUP042,25.68,12.94,2023-07-10,Discontinued
+P00989,Oak & Co. Speakers 0989,Electronics,Speakers,Oak & Co.,SUP012,40.3,9.81,2023-11-12,Active
+P00990,UrbanPeak Sneakers 0990,Footwear,Sneakers,UrbanPeak,SUP052,69.25,31.31,2023-12-05,Active
+P00991,UrbanPeak Skincare 0991,Beauty,Skincare,UrbanPeak,SUP013,35.08,18.93,2023-10-20,Active
+P00992,Northstar Dresses 0992,Apparel,Dresses,Northstar,SUP024,75.11,39.23,2023-06-09,Active
+P00993,Ridge Dresses 0993,Apparel,Dresses,Ridge,SUP018,100.18,43.04,2023-06-03,Active
+P00994,Crest Speakers 0994,Electronics,Speakers,Crest,SUP062,38.73,9.56,2023-09-23,Active
+P00995,Nova T-Shirts 0995,Apparel,T-Shirts,Nova,SUP042,33.65,19.38,2023-11-16,Active
+P00996,Crest Dresses 0996,Apparel,Dresses,Crest,SUP032,13.78,8.86,2023-10-01,Active
+P00997,Vertex Dresses 0997,Apparel,Dresses,Vertex,SUP001,11.43,7.24,2023-08-13,Active
+P00998,Nova T-Shirts 0998,Apparel,T-Shirts,Nova,SUP034,84.5,51.24,2023-05-07,Active
+P00999,Crest Skincare 0999,Beauty,Skincare,Crest,SUP050,42.83,29.62,2023-08-25,Active
+P01000,Vertex Smart Devices 1000,Electronics,Smart Devices,Vertex,SUP031,17.43,6.93,2023-06-24,Active

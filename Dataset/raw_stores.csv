@@ -1,0 +1,31 @@
+store_id,store_name,region,state,city,store_type,store_size_sqft,opened_date
+ST001,Riverside Store 1,South,Texas,Dallas,Standard,12005,2022-12-25
+ST002,Westside Store 2,West,Texas,Houston,Standard,22428,2021-01-05
+ST003,Westside Store 3,Northeast,Texas,Houston,Flagship,16143,2019-04-06
+ST004,Westside Store 4,Northeast,Washington,Seattle,Standard,6255,2023-11-23
+ST005,North Store 5,South,Illinois,Chicago,Flagship,19666,2020-04-19
+ST006,Market Store 6,Midwest,Texas,Houston,Standard,17979,2019-01-21
+ST007,North Store 7,Northeast,Washington,Seattle,Standard,25699,2019-08-30
+ST008,Downtown Store 8,Midwest,California,Los Angeles,Standard,12030,2019-01-08
+ST009,Westside Store 9,Northeast,Illinois,Chicago,Standard,9873,2023-12-22
+ST010,Market Store 10,Northeast,Texas,Dallas,Standard,14413,2021-02-06
+ST011,Westside Store 11,South,Arizona,Phoenix,Standard,9454,2023-08-02
+ST012,Market Store 12,South,New York,New York,Standard,12461,2021-06-30
+ST013,Central Store 13,South,California,Los Angeles,Standard,25102,2022-04-11
+ST014,Downtown Store 14,West,Washington,Seattle,Standard,22402,2020-12-29
+ST015,Market Store 15,Midwest,Texas,Dallas,Flagship,24557,2019-05-03
+ST016,Downtown Store 16,West,Texas,Dallas,Standard,23375,2022-10-25
+ST017,Riverside Store 17,West,Texas,Dallas,Standard,6918,2019-07-05
+ST018,Westside Store 18,West,Georgia,Atlanta,Outlet,22332,2023-08-10
+ST019,Central Store 19,South,Georgia,Atlanta,Standard,13270,2020-10-09
+ST020,Riverside Store 20,South,Washington,Seattle,Standard,21469,2020-04-18
+ST021,Market Store 21,West,Georgia,Atlanta,Standard,25691,2020-02-13
+ST022,North Store 22,South,Arizona,Phoenix,Standard,15095,2021-04-08
+ST023,Market Store 23,West,Illinois,Chicago,Flagship,10403,2020-06-20
+ST024,Westside Store 24,South,New York,New York,Standard,8329,2018-07-07
+ST025,Market Store 25,Northeast,New York,New York,Flagship,15545,2018-08-11
+ST026,Downtown Store 26,Northeast,Illinois,Chicago,Standard,9085,2020-03-24
+ST027,Market Store 27,South,Texas,Dallas,Standard,25129,2018-07-07
+ST028,Westside Store 28,South,Georgia,Atlanta,Standard,20547,2019-11-15
+ST029,Westside Store 29,Northeast,Arizona,Phoenix,Flagship,21137,2020-03-16
+ST030,North Store 30,Midwest,California,Los Angeles,Standard,25254,2023-02-20

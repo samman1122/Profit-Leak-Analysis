@@ -1,0 +1,21 @@
+{
+  "signup_after_first_order": 0,
+  "launch_after_first_sale": 0,
+  "marketing_before_campaign_start": 0,
+  "ship_before_order": 0,
+  "promised_before_ship": 0,
+  "delivery_before_ship": 0,
+  "status_mismatch": 0,
+  "return_before_order": 0,
+  "return_qty_gt_sold": 0,
+  "online_with_store_id": 0,
+  "physical_without_store_id": 0,
+  "customer_city_state_mismatch": 0,
+  "store_city_state_mismatch": 0,
+  "raw_customers_duplicate_pk": 0,
+  "raw_products_duplicate_pk": 0,
+  "raw_orders_duplicate_pk": 0,
+  "raw_order_items_duplicate_pk": 0,
+  "raw_shipments_duplicate_pk": 0,
+  "raw_campaigns_duplicate_pk": 0
+}

@@ -1,0 +1,11 @@
+file,rows,columns,missing_cells,missing_pct
+dim_date.csv,1520,10,0,0.0
+raw_campaigns.csv,60,7,0,0.0
+raw_customers.csv,30000,10,330,0.11
+raw_marketing_daily.csv,7965,8,7,0.011
+raw_order_items.csv,105000,10,0,0.0
+raw_orders.csv,75000,11,94468,11.451
+raw_products.csv,1000,10,0,0.0
+raw_returns.csv,14479,11,0,0.0
+raw_shipments.csv,30000,8,0,0.0
+raw_stores.csv,30,8,0,0.0
